@@ -1,0 +1,9 @@
+app/__pycache__/
+app/__pycache__/
+app/api/__pycache__/
+utils/__pycache__
+.env
+
+.env
+venv
+test_env/Lib/site-packages/pip/_internal/__pycache__/build_env.cpython-312.pyc

@@ -1,0 +1,454 @@
+
+--- Page 1 | unknown | General ---
+🔸 ORG: Arbitrators
+🔸 ORG: Benefit/Service/Cover
+🔸 ORG: Benefits/Services/Covers
+🔸 ORG: Injury
+🔸 ORG: Insured
+🔸 ORG: Local Government
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: People’s Insurance PLC
+🔸 ORG: Schedule
+🔸 ORG: Sections
+🔸 ORG: Umpire
+🔸 ORG: the General & Specific Policy
+🔸 ORG: the Insured Persons
+🔸 PERSON: Insurer
+🔸 PERSON: Schedule
+🔸 PERSON: Tel
+🔸 PERSON: a. Asphyxia
+🔸 PERSON: b. Infections
+🔸 PERSON: c. Injuries
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 1 TRAVEL INSURANCE As the Insured named in the Schedule hereto by proposal and declaration which shall be the basis of this contract and is deemed to be incorporated herein has applied to People’s Insurance PLC (hereinafter called the Insurer) for the Insurance described in this Policy and paid the premium mentioned in the Schedule, the Insurer agrees, subject always to the terms, conditions, exclusions, and limitations, contained herein or endorsed hereon to indemnify the Insured Persons as set out in the Sections incorporated in the Policy Schedule, and/ or the Schedule of Benefits, in excess of the amount of the deductible as applicable. DEFINITIONS The stated below words and/or phrases wherever they appear have the following meaning, unless otherwise it is agreed differently in writing and signed by all Parties. Abroad: Outside the geographical boarders of the country of residence. Accident: When referring to persons: The bodily Injury suffered during the validity of the policy, which derives from a violent, sudden, external cause and one that is not intended by the Insured. The following shall also be construed to be Accidents: a. Asphyxia or Injuries as a consequence of gases or vapors, immersion or submersion, or from the consumption of liquid or solid matter other than foodstuffs. b. Infections resulting from an Accident Covered by the policy. c. Injuries that are a consequence of surgical operations or medical treatments resulting from an Accident Covered by the policy. Arbitration or Arbitration Procedure: If any difference shall arise as to the amount to be paid under this policy (liability being otherwise admitted) such difference shall be referred to the decision of an Arbitrator to be appointed in writing by the parties in difference or if they cannot agree upon a single Arbitrator to the decision of two Arbitrators one to be appointed in writing by each of the parties within one calendar month after having been required in writing so to do by either of the parties or in case the Arbitrators do not agree of an Umpire appointed in writing by the Arbitrators before entering upon the reference. The Umpire shall sit with the Arbitrators and preside at their meeting and the making of an Award shall be a condition precedent to any right of action against the Insurer. If the Insurer shall disclaim liability to the Insured of any claim hereunder and such claim shall not within twelve calendar months from the date of such disclaimer be subject to legal action or have been referred to arbitration under the provisions herein contained then the claim shall for all purposes be deemed to have been abandoned and shall not thereafter be recoverable hereunder. Benefit/Service/Cover: The Benefits/Services/Covers the Insured Person or Covered person or vehicle is entitled to receive as described in the General & Specific Policy conditions, or in the Service Agreement and usually summarized in the schedule of Benefits/Services/Covers. Beneficiary: Person or persons for whom the Insured recognizes the right to receive the corresponding Benefits/Services/Covers or amount of compensation as outlined in the policy. Should no one have been specified, the compensation will form part of the Insured’s estate. Catastrophe: An event where the Insured person is necessarily and unavoidably required to move from their pre-booked and pre-paid accommodation as a result of fire, lightning, explosion, earthquake, storm, tempest, hurricane, flood, medical epidemic or Local Government directive.
+
+----------------------------------------
+
+--- Page 2 | unknown | General ---
+🔸 GPE: Policyholder
+🔸 ORG: Coverage
+🔸 ORG: Dental
+🔸 ORG: Fraudulent
+🔸 ORG: General & Specific Policy Conditions
+🔸 ORG: Insured
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: The Assistance Company
+🔸 ORG: Usual Country of Residence
+🔸 ORG: the Benefits/Services/Covers
+🔸 ORG: the General & Specific Policy Conditions of this Insurance Policy
+🔸 ORG: the Insured Person
+🔸 ORG: the Insured, Beneficiary
+🔸 ORG: the Insured: Spouse, Children
+🔸 ORG: the Insurer / The Assistance Company
+🔸 PERSON: Children
+🔸 PERSON: Claim
+🔸 PERSON: Insurer
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 2 Children: Persons from 30 days old to 18 years old unless otherwise agreed and expressed in the policy. Claims: A document or request filed by a Policyholder stating that an Insured event has occurred and that the Insurer / The Assistance Company should provide Coverage. Close Relative of the insured: Spouse, parents, Children, grandparents, grand Children, siblings, mother and father in law and brothers and sisters in law. Country of residence: The country in which the Insured person resides for at least six months of the year. Cover Inception: The Assistance Company will immediately provide the Insured, the assistance specified under the Benefits/Services/Covers clause of the General & Specific Policy Conditions of this Insurance Policy for mishaps that occur due to unforeseen incidents during travels outside his/her Usual Country of Residence, provided that this occurrence does not take place outside the specified geographical boundaries and does not take place out of the prescribed travel duration between the validity dates of this Policy. For each single Trip, the cover ceases when the travel causing the acquisition of the Policy ends and/or the Insured arrives at his/her Usual Country of Residence, whichever takes place first. The duration of cover per trip under this Policy shall not exceed the maximum number of days set in the premiums table and shall not exceed at any case 180 consecutive days of each travel. Covered Trip: An intended and planned trip undertaken by the Insured outside his Usual Country of Residence. The Covered Trip commences when the Insured starts the direct journey from his Usual Country of Residence and ceases when the Insured first returns to his country of residence. The maximum duration of any one Covered Trip shall not exceed the maximum number of days set in the premiums table and shall not exceed at any case 180 days consecutive days except for policies issued under the Students Plan, up to 1 year. Deductible or Excess: The amount of expenses which is not Covered by the Insurer, and that are to be paid by the Insured Person before the Policy Benefits become payable. Doctor or Physician: An officially registered medical practitioner according to the law of the place where the Claim happens. Emergency Dental Care: Any natural Dental treatment Covered by the policy due to a condition suddenly started up at travel and that it does not occur by reason of any pre-existing situation has been documented by dentist’s report. Emergency Repair: The repair necessary to render the home/ dwelling safe and/or secure against further loss or damage as result of sudden occurrence which demand immediate action. Fraudulent Claims: When the Insured, Beneficiary or someone acting on their behalf, uses any Fraudulent means or devices in order to obtain any of the Benefits of this policy, consequently, any payment of any amount in respect of such Claim shall be cancelled. General & Specific Policy Conditions: The terms and provisions of all aspects of the policy which state the rights and duties of the Insured or Insurer. The policy conditions will usually be located in the policy schedule. Hijack: Unlawful seizure of the aircraft, sea vessel or train or other public transport vehicle in which the Insured person is travelling. Home/ Dwelling: The place where the Insured person lives in their country of residence. Immediate Family Member of the Insured: Spouse, Children, parents, grandparents and siblings. Injury: A medical problem caused by a sudden and severe external cause or reason beyond the control of the Insured, within the validity period of this Policy.
+
+----------------------------------------
+
+--- Page 3 | unknown | General ---
+🔸 ORG: Benefits/Services/Covers and Limits
+🔸 ORG: Covered
+🔸 ORG: Havelock Road Colombo
+🔸 ORG: Insured
+🔸 ORG: Limit/Sum Insured
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: Party
+🔸 ORG: People’s Insurance PLC
+🔸 ORG: Premium
+🔸 ORG: the General & Specific Policy Conditions
+🔸 PERSON: Common Carrier
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 3 Insurance Parties: An interested Party or additional interest is a person or company other than the named Insured on a policy, which has an insurable interest in the person or property Covered by the policy. Insured Person: Within the validity period of the policy, the person aged between 30 days and 80 years, whose name and address are specified in the policy, with respect to whom the Premium has been paid before his/her travel and who is a permanent resident in the country where the policy was issued. Insurer: People’s Insurance PLC having its registered office at No. 07, Havelock Road Colombo 05. Legislation: Written and approved laws. Also known as statutes, acts or lex scripta. Limit/Sum Insured: The amounts set forth in the General & Specific Policy Conditions, schedules of Benefits/Services/Covers and Limits of each different plan, and which represents the maximum Benefit (financial, temporary or another kind) Covered under each guarantee. Means of Transport /Common Carrier: It will be understood as Common Carrier means which are hired to carry out the trip object of this insurance and will remain limited to the plane, ship, train, or coach, including when going into and going out of the above mentioned way of transport. Equally there, remains Covered the Accident of the way of public transport (limited to taxi, rent car with driver, tramway train, bus, train, underground train) during the direct route between the point of exit or come (domicile or hotel) up to the terminal of the trip (station, airport, port). Medical Supervision: The supervision, care, or management of a patient to combat, ameliorate, or prevent a disease, disorder, or injury wherein constant or regular observation is required. Medical practitioner: A person who is legally qualified in medicine and currently practicing and who is recognized as such by the relevant authority in that country, other than the Insured person, a close relative, travelling companion or employee or close business colleague. Not Eligible Insured Person: a) Insured intending to travel more than the maximum number of days set in the premiums table shall not exceed at any case 180 days consecutive days except for policies issued under the Students Plan, up to 1 year. b) Persons of less than 30 days old. c) Persons aged from 80 years old and above, except in case a specific Plan including such Cover for persons aged from 80 years and above are contracted. d) Non-residents in the country where the policy is issued. e) Those who have initiated the trip prior to the insurance underwriting. f) Insured travelling for work reasons (paid or otherwise), when undertaking physical or manual hazardous activities such as: use of machinery, loading and unloading, working at heights or in confined spaces, assembly of machinery, working on floating or underwater platforms, mines or quarries, use of chemical substances, laboratory work of any kind and any other hazardous activities. This does not apply to Employment Plans.
+
+----------------------------------------
+
+--- Page 4 | unknown | General ---
+🔸 GPE: Angina
+🔸 ORG: C. - Dengue
+🔸 ORG: CVA
+🔸 ORG: Insured
+🔸 ORG: Medical Supervision
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 PERSON: Pulmonary Embolism
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 4 Not Fit For Travel: Insured persons who have conditions which may serious consequences or require Medical Supervision prior the trip such as the following cases: - Infants less than 48 hours old (longer after premature births). - Women after the 36th week of pregnancy (32nd week for multiple pregnancy). - Those suffering from: o An unstable medical condition. o Angina or chest pain at rest. o Any active infectious disease. o Increased intracranial pressure. o Recent heart attack (Past 1 – 8 Weeks). o Recent stroke (Past 1 – 8 Weeks). o Recent surgery or injury where trapped air or gas may be present (e.g. abdominal trauma, gastrointestinal surgery, craniofacial and ocular injuries, brain surgery or eye operations) (Past 1 – 8 Weeks). o Severe chronic respiratory disease. o Breathlessness at rest. o Unresolved pneumothorax. o Psychotic illness, except where fully controlled. The Insured person may be considered fit for travel even if he/she suffers from any of the following medical conditions / illnesses provided his/her condition or injury is stable and he/she generally feels well: - Paralysis. - Motor Neurone Disease. - Multiple Sclerosis. - Parkinson. - Allergies to certain food. - High blood pressure or high cholesterol. - Diabetes. - Blood disorders such as anaemia (provided no oxygen is required). - Epilepsy (only if you have not had a seizure within 24 hours prior to your flight departure time). - Arthritis. - Insect bites. - Minor injuries such as toe and finger injuries, twisted ankles, pulled muscles or small cuts. - Sunburn. - Hepatitis B or C. - Dengue fever. - Viral Meningitis. - Malaria. - Cholera (as long as the symptoms have settled, you are well enough to travel and the public health authority in the destination country allows travel). - Hepatitis A (as long as you feel well enough to travel). - Shingles (as long as the rash is not weeping or is covered). - Yellow Fever (as long as you feel well enough to travel and the public authority in the destination country allows travel). - Flu (as long as the symptoms have settled). - A heart attack or angioplasty. - Deep Vein Thrombosis (DVT) or Pulmonary Embolism (PE). - Stroke (CVA) or head injury. - Surgery on the heart, chest or abdomen. - Joint replacement or amputation. - Does not require oxygen during the Trip due to an existing condition.
+
+----------------------------------------
+
+--- Page 5 | unknown | General ---
+🔸 ORG: Injury
+🔸 ORG: Insured
+🔸 ORG: Medications
+🔸 ORG: Outpatient
+🔸 ORG: Outpatient Visit/Treatment: Outpatient Visit/Treatment
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: Party
+🔸 ORG: The Assistance Company's
+🔸 ORG: the Benefits/Services/Covers
+🔸 ORG: the Certificate of the Policy
+🔸 ORG: the Insured.
+🔸 PERSON: Insurer
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 5 Orthopaedic material or orthesis: Anatomical parts or items of any kind used to prevent or correct temporary or permanent deformations of the body (walking sticks, cervical collar, wheelchair, etc.). Osteosynthesis material: Parts or pieces of metal or of any other kind used to join together the ends of a fractured bone, or to knit together the tips of joints, by surgical operation and which can be reused. Outpatient Visit/Treatment: Outpatient Visit/Treatment means the medical expenses (including Medications, Outpatient test and visit) which is needed to treat an injury or sickness, where the Insured can get treatment from a medical practitioner, or a specialist and he does not need to stay in hospital confinement. Period of Insurance or Effective Date of Coverage: The period that commences and ends on the dates stated on the Certificate of the Policy contracted. The duration of cover for any single trip shall not exceed the maximum number of days set in the premiums table and shall not exceed at any case 180 consecutive days and is in any case not renewable. Period of Cover: The duration of the policy as long as the correspondent premium have been paid. Personal Accident: Physical Injury or mental anguish caused, by actions or negligence of another Party. Personal Money: Any money held by the Insured for personal use on their trip. This includes cash (notes and coins in current use, including foreign currency that can legally be used as currency in any country.), nonrefundable pre-paid cards, vouchers which have a monetary value (for example phone-cards, gift vouchers, admission and travel tickets). These must all be held for private and not business purposes. Policyholder: The natural or legal person who subscribes the policy with the Insurer and who is bound by the obligations arising therefore, save those which, owing to their nature, must be complied with by the Insured. Pre-booked accommodation: A commercially run premises which has been booked prior to the start of the Insured persons trip and for which they pay a fee. This does not include residential homes belonging to family or friends. Prosthesis: These are deemed to be any item of any kind that temporary or permanently replace the lack of an organ, tissue, organic fluid, member or part of any of them. By way of an example, mechanical or biological items such as cardiac valve parts, joint replacements, synthetic skin, intraocular lenses, biological materials (cornea), fluids, gels and synthetic or semi synthetic liquids that replace organic humors or liquids, medicine reservoirs, mobile oxygen therapy systems, etc. Risk: Probability or threat of a damage, Injury, liability, loss, or other negative occurrence, caused by external or internal vulnerabilities, and which may be neutralized through pre-mediated action. Serious / sudden Illness: Any Illness that requires admission to hospital and which, in the opinion of The Assistance Company's medical team, prevents the Insured from continuing travel on the date planned, or which involves the Risk of death. Serious Injury: An Injury which, in the opinion of The Assistance Company's medical team, prevents the Insured from continuing travel on the date planned or involves the Risk of death. Premium: The amount the Policyholder must pay to the Insurer in consideration for the Benefits/Services/Covers provided for the Insured. Service Provider: An independent subcontractor appointed to perform any Services. Spouse: Person officially registered as wife or husband of the Insured.
+
+----------------------------------------
+
+--- Page 6 | unknown | General ---
+🔸 GPE: Afghanistan
+🔸 GPE: Cuba
+🔸 GPE: Democratic Republic of Congo
+🔸 GPE: Iraq
+🔸 GPE: Yemen
+🔸 ORG: Block 436, SEEF
+🔸 ORG: Coverage
+🔸 ORG: Insured
+🔸 ORG: Kingdom of Bahrain Theft (Personal
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: the Insured Person
+🔸 ORG: the Usual Country of Residence
+🔸 PERSON: Insurer
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 6 Standard Accommodation: A hotel/motel room or studio apartment fit to accommodate 1 or 2 persons as per case with a reasonable price and stay quality standards, or the same standards as originally booked. Sudden Illness: Any sudden change in health diagnosed and confirmed by a legally recognized Doctor during the life of the policy and which is not comprised or derived from either of the following two groups: - Congenital disease: the disease that exists at the moment of birth as a consequence of hereditary factors or complaints acquired during pregnancy. - Pre-existing disease: the disease that the Insured suffered prior to the date of taking out this Policy, even if it wasn’t diagnosed. Territory: Geographic area where the travel, object of the contract, takes place and in which the events that occur there have Coverage. Terrorism: An act, including but not limited to the use of force or violence and/or the threat thereof, of any person or group(s) of persons, whether acting alone or on behalf of or in connection with any organization(s) or government(s), committed for political, religious, ideological or similar purposes including the intention to influence any government and/or to put the public, or any section of the public, in fear. Moreover, the following will be excluded: Iraq, Afghanistan, Yemen, Cuba, Democratic Republic of Congo, and country of residence. The Assistance Company: For the purpose of this policy; the travel assistance services are assigned to; Swan International Assistance. A company registered address at: Office 22, Building 2578, Road 3647, Block 436, SEEF, Kingdom of Bahrain Theft (Personal effect): The attempt to steal or stealing all privately owned moveable, personal property of an individual. Treatment: The action or manner of treating a patient medically or surgically particularly adapted to the special disease being treated by a professional that may deem the Insured to be Not Fit for Travel. Trip: Trip means a journey which commences during the period of insurance. The trip must begin and end in the country (or town for domestic travel insurance) where the insured’s residence is situated. Each trip must not exceed the maximum number of days set in the premiums table and shall not exceed at any case 180 consecutive days (except for policies issued under the Students Plan, up to 1 year). The Insured person must have booked a return flight prior to departure on overseas trips One-way trips or trips using open tickets are not covered. Unattended: When the Insured person is not in full view of and not in a position to prevent unauthorized interference at the time of the damage, loss, or theft of their property or vehicle, or left in a place where it can be taken without the Insured person’s knowledge (including on the beach or beside the pool while the Insured swims), or where the Insured is unable to prevent it from being unlawfully taken. Unexpected Event: A cause or event that occurs during Your Period of Insurance that was sudden, unforeseeable or unintended, and was outside of Insured’s control, and could not reasonably have been anticipated or avoided. Usual Country of Residence: The country where the Insured Person is a citizen or permanent resident and where the Policy is issued by the Insurer. Usual Place of Residence: The home or residence of a Beneficiary in the Usual Country of Residence.
+
+----------------------------------------
+
+--- Page 7 | unknown | General ---
+🔸 GPE: Centre
+🔸 ORG: Company
+🔸 ORG: DUE
+🔸 ORG: Deductible
+🔸 ORG: GENERAL & SPECIFIC
+🔸 ORG: Insured
+🔸 ORG: Insured Person
+🔸 ORG: MEDICAL EVACUATION & REPATRIATION
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: The Assistance Company
+🔸 ORG: Usual Country of Residence
+🔸 ORG: an Accidental Injury
+🔸 ORG: the Usual Country of Residence
+🔸 PERSON: Sudden Illness
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 7 GENERAL & SPECIFIC POLICY CONDITIONS Below is the comprehensive Travel Insurance Policy Wording. It is not necessarily that the Insured is eligible for all its benefits. The Insured’s coverage is limited to the schedule of benefits provided. PERSONAL ASSISTANCE 1) MEDICAL, HOSPITALIZATION, PHARMACEUTICAL EXPENSES, AND SURGICAL EXPENSES ABROAD, DUE TO ACCIDENT / SUDDEN ILLNESS In the event of an Accidental Injury or Sudden Illness of the Insured occurring outside the Usual Country of Residence (After the flight take off if the treatment is done at destination country only), The Assistance Company will meet the usual, customary, necessary and reasonable costs of hospitalization (until stabilization), surgery, medical fees and pharmaceutical products prescribed by the attending Doctor for a maximum of (as the Schedule of Benefit) per person per trip or per year (in case of annual policy) and in the aggregate with a Deductible stated in the Policy Schedule. Coverage is always within the territorial area and outside the Usual Country of Residence, no cover for on air expenses and no cover within the first departure area or Usual Country of Residence. The Assistance Company’s medical team will maintain the telephone contacts necessary with the Centre and with the Doctors attending to the Insured to supervise the provision of proper health care. This policy is not a general health policy. It is intended only for use of Insured Person in the event of a serious sudden and unexpected illness or accident. Further treatments and non-emergency surgeries must be done in the home country. 2) EMERGENCY DENTAL CARE ABROAD If necessary, The Assistance Company will provide the Insured party with the dental assistance required abroad. The maximum limit of the expenses for this benefit is (as the Schedule of Benefit) per case and (as the Schedule of Benefit) per annum and in the aggregate. This coverage is restricted to the treatment of pain, infection and removal of the tooth affected. 3) TRANSPORT TO A PROPERLY EQUIPPED MEDICAL FACILITY/ REPATRIATION IN CASE OF ACCIDENT / SUDDEN ILLNESS (MEDICAL EVACUATION & REPATRIATION) In the event of an Accidental Injury or Sudden Illness, The Assistance Company will take charge of transferring the Insured to a proper equipped medical facility. The Assistance Company, through its medical team, will decide if transferring is necessary, otherwise, The Assistance Company, through its medical team, will decide if repatriation is necessary, depending on the situation or gravity of the condition of the latter. Afterwards, the Company’s medical team will maintain the telephone contacts necessary with the medical Centre and with the doctors attending to the Insured, and on the basis thereof will decide whether to transfer the Insured, and on the most suitable means of transport to use. Transfer will be performed in ambulance or another means of transport, to the place where adequate medical assistance can be provided.
+
+----------------------------------------
+
+--- Page 8 | unknown | General ---
+🔸 ORG: FAMILY
+🔸 ORG: Insured
+🔸 ORG: Medications
+🔸 ORG: Outpatient
+🔸 ORG: Outpatient Visit/Treatment: The Assistance Company
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: Sudden Illness
+🔸 ORG: THE Insured IN CASE OF
+🔸 ORG: The Assistance Company
+🔸 ORG: an Accidental Injury
+🔸 ORG: the Insured party
+🔸 ORG: the Usual Country of Residence
+🔸 PERSON: Sudden Illness
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 8 4) REPATRIATION OF MORTAL REMAINS TO THE COUNTRY OF RESIDENCE In the event of the death of the Insured, The Assistance Company will make the arrangements necessary for his/her transport or repatriation and will meet the cost of the transfer expenses to the place of interment, cremation or funeral ceremony at his/her usual country of residence. Payment of expenses for interment, cremation or funeral ceremony is excluded from this guarantee. 5) EMERGENCY RETURN HOME TO THE COUNTRY OF RESIDENCE FOLLOWING DEATH OF A CLOSE FAMILY MEMBER When the Insured has to curtail his/her journey because of the death of an immediate family member, The Assistance Company will meet the cost of the travel to his/her usual country of residence, whenever he/she is unable to travel by his/her own means of transport or the means of transport hired for the trip. The Insured shall furnish the evidence, documents or certificates of the event, which caused the journey to be cut short (death certificate). 6) TRAVEL AND STAY OF ONE IMMEDIATE FAMILY MEMBER TO STAY WITH THE Insured IN CASE OF ACCIDENT/ SUDDEN ILLNESS (COMPASSIONATE VISIT) In the event that the Insured is travelling alone and admitted to hospital for more than seven days as a result of an Accidental Injury or Sudden Illness covered in the policy, The Assistance Company will take charge of the outbound and return journey of one designated immediate family member at the Insured’s choice, from the Usual Country of Residence of the Insured to the place of hospitalization of the Insured as well as the cost of standard accommodation expenses up to a limit of (as the Schedule of Benefit) per day for a maximum of (as the Schedule of Benefit). 7) ESCORT OF MINOR CHILD IN CASE OF ACCIDENT/ SUDDEN ILLNESS OF THE INSURED If any of the persons accompanying the Insured party, who has suffered because of an Accidental Injury or Sudden Illness, were children of under 18 years of age and does not have anyone to accompany him/her, The Assistance Company will provide a suitable person to look after the child during the trip to the hospital where the Insured is hospitalized, or to the usual residence in the country of origin, whenever there is no other person who could take charge of escorting the child. 8 )Outpatient Visit/Treatment: The Assistance Company will meet the usual, customary, necessary and reasonable costs of the medical expenses (including Medications, Outpatient tests and visits) which are needed to treat an injury or sickness, where the Insured can get treatment from a medical practitioner or a specialist, without needing to stay in hospital confinement. 9) SEA AND MOUNTAIN RESCUE EXPENSES This does not include rescues on the spot. Sea and mountain rescue only include possible medical expenses at hospital up to (Amount specified in the Schedule of Benefits). 10) WINTER SPORTS (SKI)/ SUMMER SPORTS EXTENSION The winter/ summer sports extension provided is for recreational Armature sports, Sea sports, and skiing (including snowboarding) in recognized resort areas that have marked pistes or runs designed for public use. Within these recognized areas, the Insured is covered for sports outside of resorts or ‘off-piste’ skiing provided that he/she is accompanied by a qualified guide, and the area is not marked as out of bounds or
+
+----------------------------------------
+
+--- Page 9 | unknown | General ---
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: The Assistance Company
+🔸 ORG: the Insured Person
+🔸 ORG: the Insured Person's
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 9 hazardous. At all times is expected to ski safely, take notice of any local authoritative warnings or advice and not recklessly expose oneself to hazard. This only includes possible medical expenses at hospital up to (Amount specified in the Schedule of Benefits) due to injuries endured while participating in winter sports activities. Winter/Summer sports cover is limited to 15 days on annual multi-trip policies. List of covered sports activities include: 11) TRAVEL ASSISTANCE SERVICES a) Telephone medical advice The Assistance Company will arrange for the provision of medical advice to the Insured Person over the telephone. b) Monitoring of medical condition during and after hospitalization The Assistance Company will monitor the Insured Person's medical condition during and after hospitalization, subject to any and all obligations in respect of confidentiality and relevant authorization. c) Medical translation service The Assistance Company will arrange for the provision of medical translation to the Insured Person over the telephone. Where The Assistance Company uses an external service provider to provide the translation service, the quality of the translation cannot be guaranteed. The Assistance Company will however exercise reasonable care and diligence in selecting such service providers. d) Interpreter referral Upon request from the Insured Person, The Assistance Company will provide the names, telephone numbers and, if possible and requested, hours of opening of interpreters' office in foreign countries. Although The Assistance Company shall make such referrals, it cannot guarantee the quality of the service provider and the final selection of a service provider shall be the decision of the Insured Person. The Assistance Company, however, will exercise care and diligence in selecting the service providers. e) Emergency interpreting assistance
+
+----------------------------------------
+
+--- Page 10 | unknown | General ---
+🔸 ORG: ABC Guide to International Travel Information
+🔸 ORG: Insured
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: The Assistance Company
+🔸 ORG: World Health Organization Publication "Vaccination Certificates Requirements and Health Advice for International Travel
+🔸 ORG: the Home Country
+🔸 ORG: the Insured Person
+🔸 ORG: the Insured Person's
+🔸 ORG: the Insured Persons
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 10 The Assistance Company will arrange for the provision of interpreting assistance to the Insured Person over the telephone on an emergency basis. f) Lost luggage assistance Upon request from the Insured Person, The Assistance Company will assist the Insured Person who has lost his/her luggage while traveling outside the Home Country or Usual Country of Residence by referring the Insured Person to the appropriate authorities. f) Lost passport assistance The Assistance Company will assist the Insured Person who has lost his/her passport while traveling outside the Home Country or Usual Country of Residence by referring the Insured Person to the appropriate authorities involved. g) Legal referral The Assistance Company will provide the Insured Persons with the name, address, and telephone numbers, if requested by the Insured Person and if available, office hours for referred lawyers and legal practitioners. The Assistance Company will not give any legal advice to the Insured Person. Although The Assistance Company shall make such referrals, it cannot guarantee the quality of the service provider and the final selection of a service provider shall be the decision of the Insured Person. The Assistance Company, however, will exercise care and diligence in selecting the service providers. h) Arrangement of appointment with lawyers The Assistance Company will assist the Insured Person to arrange for appointments with lawyers. All related expenses shall be borne by the Insured Person. i) Inoculation and visa requirement information Upon request from the Insured Person, The Assistance Company shall provide information concerning visa and inoculation requirements for foreign countries, as those requirements are specified from time to time in the most current edition of World Health Organization Publication "Vaccination Certificates Requirements and Health Advice for International Travel" (for inoculations) and the "ABC Guide to International Travel Information" (for visas). j) Emergency traveling service assistance The Assistance Company shall assist the Insured Person in making reservations for air ticket or hotel accommodation on an emergency basis when traveling overseas. However miscellaneous services required by the Insured that are not covered under this Policy shall remain the responsibility of the Insured and at his own expense. k) Embassy referral The Assistance Company shall provide the address, telephone number and hours of opening of the nearest appropriate consulate and embassy worldwide. l) Emergency document delivery The Assistance Company shall assist the Insured Person to arrange for emergency document(s) to be delivered to the Insured Person's friend, relative or business associate, upon the Insured Person's request to do so. The above Services are purely on referral or arrangement basis. The Assistance Company shall not be responsible for any third party expenses, which shall be solely the Insured Person's responsibility.
+
+----------------------------------------
+
+--- Page 11 | unknown | General ---
+🔸 ORG: CANCELLATION &
+🔸 ORG: CANCELLATION & CURTAILMENT The Assistance Company
+🔸 ORG: Insured
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: Post
+🔸 ORG: Specialized Physician
+🔸 ORG: The Assistance Company
+🔸 ORG: The Insured Person
+🔸 ORG: Through The Assistance Company
+🔸 ORG: the Insured Person
+🔸 ORG: the Insured Person’s
+🔸 ORG: the Insured Person’s Covered Trip
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 11 n) Delivery of medicines or dispatched of a specialized physician abroad The Assistance Company will take charge of delivering the medicines or Dispatched of a Specialized Physician outside the country of resident prescribed urgently by a doctor for the Insured during the trip and which cannot be found in the place where he/she had travelled to or to be replaced by medicines or specialized Physician that have a similar composition. The Assistance Company will not be responsible for the medicine’s expenses. o) Medical referral/appointment of local medical specialist abroad Through The Assistance Company call center, the Insured will be given access and referred to any agreed medical center or medical practitioner of The Assistance Company’s international network, when the Insured is outside the country of residence. p) Connection services Whilst traveling abroad, the Insured may contact The Assistance Company to obtain miscellaneous services in the country where he is located such as rental car referral, hotel reservation, and legal and administrative information. However miscellaneous services required by the Insured that are not covered under this Policy shall remain the responsibility of the Insured and at his own expense. q) Relay of urgent messages Whilst traveling abroad, the Insured may contact The Assistance Company in order to relay urgent messages (via: Telephone, Fax, E-mail, and Post). The Assistance Company will however endure the cost of relay of messages only, cargo and shipping are miscellaneous services required by the Insured that are not covered under this Policy and shall remain the responsibility of the Insured and at his/her own expense. TRIP CANCELLATION & DELAY 1) TRIP CANCELLATION & CURTAILMENT The Assistance Company shall indemnify the Insured Person in respect of all irrecoverable deposits, advance payments and other charges paid or due to be paid for travel and/or accommodation up to (as the Schedule of Benefit), in the event of the Insured Person’s Covered Trip being necessarily cancelled or curtailed due to: a) The death, accidental bodily injury or illness of the Insured Person or the death, accidental bodily injury or illness of the Insured Person’s immediate family member. b) The death, accidental bodily injury or illness of any person with whom the Insured Person had arranged to travel, reside or conduct business, or of the immediate family member. c) The Insured Person or any person with whom the Insured, Person had arranged to travel, reside or conduct business being: • Quarantined or called for witness or jury service. • Made redundant provided that such redundancy qualifies for payment under the applicable usual country of residence legislation. • Called for emergency duty as a member of the armed forces, the defense of civil administration, the police force or the fire, rescue, public utility or medical services. • Required to be present at his home or place of business in the usual country of residence following burglary or major damage.
+
+----------------------------------------
+
+--- Page 12 | unknown | General ---
+🔸 GPE: Insured
+🔸 ORG: CANCELATION & CURTAILMENT:
+🔸 ORG: CONDITIONS
+🔸 ORG: Insured
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: The Assistance Company
+🔸 ORG: The Assistance Company / Insurer
+🔸 ORG: the Insured Person
+🔸 ORG: the Insured’s Covered Trip
+🔸 ORG: • Travel
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 12 d) The cancellation of scheduled or chartered transport services (including connecting publicly licensed transportation) caused by accident, strike, industrial action, hi-jack, terrorist act, criminal act, bomb scare, riot, civil commotion, fire, flood, earthquake, landslide, avalanche, adverse weather conditions or mechanical breakdown, provided that the event giving rise to such cancellation occurs, or is only announced, after the Covered Trip is booked or this Insurance is effected, whichever the later. e) Major damage rendering uninhabitable the accommodation in which the Insured Person had previously booked to reside during a Covered Trip. f) Failure to obtain visas although Insured person has applied to the relevant consulate at least 21 days prior to the trip with all required documents. EXCLUSIONS APPLICABLE TO TRIP CANCELATION & CURTAILMENT: The Assistance Company / Insurer shall not be liable for claims resulting from: a) Childbirth, pregnancy or any medical complications resulting from within 2 months of the estimated date of delivery. b) Any condition or set of circumstances known to the Insured at the time the Trip was booked, or this Insurance was affected, where such condition or set of circumstances could reasonably have been expected to give rise to the cancellation or curtailment of the Insured’s Covered Trip. c) Lack of or unreasonable care taken by the Insured in respect of: • Travel to the airport/station. • Route to the airport/station. • Departure time. 2) DELAYED DEPARTURE ABROAD In the event that transport services on which the Insured has previously booked to travel are delayed due to strike, industrial action, adverse weather conditions, mechanical breakdown or technical fault., The Assistance Company will indemnify the Insured in respect of restaurant meals, refreshments and/or hotel accommodation (after 24 hours) used during the period of delay on the outward journey at commencement of the Covered Trip as follows: a) Up to the amount specified in the Schedule of Benefits, for irrecoverable losses paid or to be paid if the Insured opts to cancel the Covered Trip completely following delay of more than 24 hours, less any amounts recoverable, or b) For each completed 06 hours period (as the Schedule of Benefit) of delay an amount of (as the Schedule of Benefit) will be paid and up to a maximum of (as the Schedule of Benefit) against the receipts of meals, refreshments purchased during the delay. CONDITIONS AND LIMITATIONS APPLICABLE TO TRIP DELAY: The Insured must obtain written confirmation from the carriers or their agents of the scheduled date and time of departure and the reasons for delay before a claim is considered under this Section of the Policy, claims under this Section of the Policy shall be calculated from the actual time of departure of the conveyance on which the Insured was booked to travel, as specified in the booking confirmation. 3) MISSED FLIGHT CONNECTION The Assistance Company will reimburse the Insured person up to the maximum amount shown on the policy schedule, subject to any excess, for the reasonable, necessary and additional expenses for replacement of flight ticket, in the event the Insured person unforeseeably and through no fault of his/her own is delayed by the public common carrier during the Insured trip to reach one connecting flight as specified in the Insured person’s original itinerary. Therefore, causing the Insured person to miss the connecting flight to reach the final destination as specified in the Insured person’s original itinerary.
+
+----------------------------------------
+
+--- Page 13 | unknown | General ---
+🔸 ORG: Insured
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 13 SUBJECT TO THE FOLLOWING PROVISIONS AND LIMITATIONS: a) The Insured person can only claim for either departure or arrival delay of the same public common carrier. SUBJECT TO THE FOLLOWING EXCLUSIONS: This section does not cover: a) Any circumstances leading to the relevant delay of the connecting flight during the Insured trip which is existing, expected to, or announced before the Insured trip was booked. b) Any loss arising from late arrival of the Insured person at the connecting airport or port (i.e. arrival at a time later than the time required for check-in or booking-in except for the late arrival due to strike by the employees of the public common carrier). c) Any loss in relation to alternations to schedules that is not verified by the airline, travel agency or other relevant organizations. d) Any loss or circumstances covered by any other insurance scheme, government programme or which will be paid or refunded by travel agency, tour operator, public common carrier or other provider. e) The delay is caused by the coach, train, ship or aircraft being ordered by a port authority or the civil aviation authority or similar organization to stop your Insured trip. f) The Insured person declines an alternative service to be provided by the public common carrier. g) Any loss not substantiated by written confirmation from the public common carrier on the reason for such delay along with the relevant receipts. h) Connecting flight waiting time in connecting airport is less than three (3) hours. LUGGAGE ASSISTANCE 1) COMPENSATION FOR IN-FLIGHT LOSS OF CHECKED-IN LUGGAGE The Assistance Company will supplement the compensation for which the carrier is liable up to a limit of (as the Schedule of Benefit) as a sum of both compensation payments, for the collection of baggage and possessions checked in by each Insured, in the event of loss during the carriage by air performed by the carrier company, for the purpose of which the Insured shall furnish a list of the contents including the estimated price and date of purchase of each item (similar to the list of content submitted to the airlines), as well as the settlement of the compensation payment by the carrier. Compensation payment for loss will be calculated according to the procedures recommended by international carriage by air organizations. The minimum period of time that must elapse for the baggage to be considered to have been lost once and for all will be that stipulated by the carrier company, with a minimum of 21 days. Money, jewellery, debit and credit cards, and any type of document are excluded from this guarantee. 2) COMPENSATION FOR DELAY IN THE ARRIVAL OF CHECKED-IN LUGGAGE ABROAD Being temporarily deprived of his/her registered baggage and/or personal effects for a period in excess of (x) hours (as the Schedule of Benefit) on his/her outward journey whilst on the Covered Trip on board of a common carrier, for all the necessary emergency purchases (essential clothing and toiletries) against original invoices up to a maximum limit of (as the Schedule of Benefit). Any amount so paid shall be deducted from any subsequent claim paid under Section 3 (1) above. Being deprived of his passport and /or any official transportation documents, for expenses related to formalities and issuing of a new passport as stated under Section 3 (5) in the Schedule of Benefits.
+
+----------------------------------------
+
+--- Page 14 | unknown | General ---
+🔸 ORG: CONDITIONS
+🔸 ORG: Insured
+🔸 ORG: Insured Person
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: PERSONAL LUGGAGE &/OR MONEY
+🔸 ORG: the Insured Person
+🔸 ORG: the Insured party’s
+🔸 ORG: the Insured party’s luggage &/or
+🔸 ORG: the Journey The Assistance Company
+🔸 ORG: the Usual Country of Residence
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 14 3) LOCATING AND FORWARDING OF DELAYED BAGGAGE AND PERSONAL EFFECTS The Assistance Company will furnish the Insured with advice on reporting the robbery or loss of his/her baggage and personal possessions and will collaborate in arrangements for locating them. In the event that the aforesaid possessions should be recovered, The Assistance Company will take charge of forwarding them to the place of the trip planned by the Insured or to his/her usual country of residence. In this event, the Insured is under an obligation to return the compensation received for the loss in accordance with this policy. 4) LOSS OF CREDIT CARD ABROAD If an Insured Person suffers financial loss as a direct result of the fraudulent use of his/her personal credit card(s) following its loss arising out of robbery, burglary or theft while the Insured Person is outside the Usual Country of Residence during the Journey The Assistance Company shall pay for such unauthorized transactions incurring during a maximum of the first 24 hours of the loss of the card up to the limits indicated. The loss must be reported to the credit card issuer within six (6) hours of the robbery, burglary or theft, otherwise no benefit will be payable under this Section. A claim must be accompanied by a report issued by the credit card issuer evidencing the amount of loss provided that reasonable care of their own credit card was taken to keep it safe as well as all reasonable steps to recover credit card that is lost or stolen. EXCLUSIONS APPLICABLE TO LOSS OF CREDIT CARDS ABROAD: a) Unattended credit card(s). b) Credit card(s) not carried with the Insured and which was not locked in the Insured’s personal accommodation or stored in a locked safety deposit box or locked safe if the Insured’s accommodation has a locked safety deposit box or locked safe. c) Credit card(s) left in a motor vehicle. d) Credit card(s) left in checked-in luggage. e) Credit card(s) left in a tent. f) Any loss or damage that that has been or will be reimbursed by any carrier, hotel, travel agent or any other party responsible for the loss or damage. g) Losses incurred after 24 hours of reporting the credit card lost as the bank must block the card. 5) LOSS OF PASSPORT, DRIVING LICENSE, NATIONAL IDENTITY CARD ABROAD In the case of loss, theft or unintentional destruction of the Insured party’s passport, driving license, national identity card while abroad; The Assistance Company will take charge of the expenses of the displacements necessary for obtaining a new passport, driving license, national identity card or equivalent consular document. 6) LOSS OF PERSONAL LUGGAGE &/OR MONEY ABROAD In the case of loss or theft of the Insured party’s luggage &/or money while abroad, The Assistance Company will pay up to amount mentioned in the schedule of benefits per Insured person. CONDITIONS AND LIMITATIONS APPLICABLE TO PERSONAL MONEY: To claim for the loss or theft of personal luggage &/or money, the Insured must:
+
+----------------------------------------
+
+--- Page 15 | unknown | General ---
+🔸 GPE: china
+🔸 ORG: CONDITIONS
+🔸 ORG: Cornell
+🔸 ORG: Credit Card and/or Personal Money Abroad
+🔸 ORG: Customs
+🔸 ORG: Insured
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: Sum Insured
+🔸 ORG: the Insured Person
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 15 a) Report the loss or theft to the police within 24 hours of discovering it. b) Get a written police report within 24 hours of reporting it, or as soon as reasonably possible afterwards. c) Present a valid confirmation of the amount of the Insured’s personal luggage &/or money, including any foreign currency he/she are claiming for. d) Always take reasonable care of their own personal luggage &/or money to keep it safe and take all reasonable steps to recover personal money that is lost or stolen. EXCLUSIONS APPLICABLE TO PERSONAL LUGGAGE &/OR MONEY: a) Unattended personal luggage &/or money. b) Personal luggage &/or money not carried with the Insured, and which was not locked in the Insured’s personal accommodation or stored in a locked safety deposit box or locked safe if the Insured’s accommodation has a locked safety deposit box or locked safe. c) Personal luggage &/or money left in a motor vehicle. d) Personal luggage &/or money left in checked-in luggage. e) Personal luggage &/or money left in a tent. f) Any personal luggage &/or money confiscated, detained or delayed by Customs or other officials. g) Any claim for personal luggage &/or money as a result of changes in exchange rates or mistakes. h) Any loss or damage that that has been or will be reimbursed by any carrier, hotel, travel agent or any other party responsible for the loss or damage. CONDITIONS AND LIMITATIONS APPLICABLE TO SECTION (3): The maximum limit for a single item shall not exceed the limit stated in the Schedule of Benefits; a pair or set of articles being deemed a single item. Total loss or destruction of an Insured item shall be dealt with on an indemnity basis up to the Sum Insured stated in the Schedule of Benefits subject to any maximum limits expressed in this Policy. The Insured Person shall at all times exercise reasonable care in the supervision of Insured baggage and/or personal effects. EXCLUSIONS APPLICABLE TO SECTION (3): The Assistance Company shall not be liable for claims resulting from: a) Where checked-in luggage is delayed or lost on flight(s) returning to the Insured Person to his place of domicile. b) Breakage of glass or china unless caused by an accident to the conveyance in which the Insured is traveling. c) Loss or damage caused by moth, vermin, electrical or mechanical breakdown, machinery breakdown, gradual deterioration or wear and tear (does not apply to the loss of or damage to any item resulting from wear and tear to a clasp, setting or other fastening device used in a carrier or container). d) Loss of cash, bank or currency notes, checks, postal orders, credit cards, charge cards, travel cards, bankers’ cards, travellers’ checks, travel tickets, other people's passports, driving licenses, green cards and petrol or other coupons; unless specified limits are set for the benefits: Loss of Credit Card and/or Personal Money Abroad. e) Claims resulting from confiscation, requisition, detention, destruction or damage by customs authorities or other such officials or other government authority. f) Losses which are not reported to the Police or appropriate authorities within 24 hours of discovery or as soon as is reasonably practicable. g) Breakage of sports equipment whilst in use or loss of or damage to pedal cycles or hired equipment. h) Loss of or damage to contact, Cornell or micro-Cornell lenses. i) Failure to take reasonable measures to save or recover lost luggage.
+
+----------------------------------------
+
+--- Page 16 | unknown | General ---
+🔸 ORG: Accidental Death
+🔸 ORG: Barré-Lieou Syndrome 10
+🔸 ORG: Epilepsy
+🔸 ORG: Injury
+🔸 ORG: Insured
+🔸 ORG: Insured Risks
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: Permanent Partial Disability
+🔸 ORG: Permanent Total Disability
+🔸 ORG: Sum Insured
+🔸 ORG: Sum Insured Paraplegia 100 Quadriplegia 100
+🔸 ORG: Sum Insured Total
+🔸 ORG: the Insured party
+🔸 PERSON: DISABLEMENT Head
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 16 j) Failure to notify the relevant airline authorities forthwith of missing luggage at the destination point and to obtain a Property Irregularity Report. k) Any illegal act by or on behalf of the Insured Person and/or their beneficiaries. PERSONAL ACCIDENTS In the event the Insured shall sustain or suffer a bodily Injury resulting solely, directly and independently of all other causes from external, violent, visible and Accidental means and directly cause or necessarily result in: 1) Accidental Death (24/7) 2) Accidental Death While Abroad. 3) Accidental Death (Common Carrier) 4) Permanent Total Disability. 5) Permanent Partial Disability. The Assistance Company shall pay to the Insured or to the Insured's executors or administrators or to indemnify him or them the Sum Insured stated in the Policy Schedule against this Benefit. The Accidents which the Insured party could suffer during the 24 hours of the day, except for express agreement, are Insured Risks which subscribe a partial Cover. AREA OF COVER: The policy's Cover is applicable, except when stipulated to the contrary, in any place in the world, except in the country of habitual residence, while the Insured party is traveling, the length of the trip not exceeding the maximum number of days set in the premiums table and shall not exceed at any case 180 days except for policies issued under the Students Plan, up to 1 year. The corresponding compensation will be paid in the country where the policy has been issued, in US Dollars. TYPE OF DISABLEMENT Head and nervous system % of Sum Insured Total derangement 100 Total blindness 100 Total dumbness being unable to make coherent sounds 70 Loss of an eye or of the vision thereof, having lost the other previously 70 Epilepsy in its maximum degree 60 Total deafness 50 Total deafness in one ear, having lost the hearing in the other previously 30 Ablation of the lower jaw 30 Loss of an eye conserving the other and decrease to half of the binocular vision 25 Operated bilateral traumatic cataract (aphaquia) 20 Total deafness in one ear 15 Serious disorders of the joints of both jaw bones 15 Operated unilateral traumatic cataract (aphaquia) 10 Total loss of smell or taste 5 Vertebral column/Spine % of Sum Insured Paraplegia 100 Quadriplegia 100 Restricted movement because of vertebral fractures without neurological complications or serious deformations of the spine: by 100 for each vertebra affected, with a maximum 20 of 20 vertebra Barré-Lieou Syndrome 10
+
+----------------------------------------
+
+--- Page 17 | unknown | General ---
+🔸 ORG: 55 Amputation
+🔸 ORG: 60 Amputation
+🔸 ORG: Insured
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: Sum Insured Amputation
+🔸 ORG: Sum Insured Loss
+🔸 ORG: Sum Insured Total
+🔸 ORG: Thorax
+🔸 PERSON: Colostomy
+🔸 PERSON: Diaphragm
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 17 Thorax, abdomen and genito-urinary system % of Sum Insured Loss of a lung or reduction by 50 per 100 of lung capacity 20 Colostomy 20 Diaphragm hernia 10 Nephrectomy 10 Spleenectomy 5 Upper limbs % of Sum Insured Amputation of an arm from the shoulder bone joint 100 Amputation of an arm at elbow level or above 65 Amputation of an arm below the elbow 60 Amputation of a hand at wrist level or below 55 Amputation of four fingers of one hand 50 Total loss of movement of a shoulder 25 Total paralysis of the radial, cubital or median nerve 25 Amputation of a thumb 20 Total loss of movement of an elbow 20 Total loss of movement of a wrist 20 Total amputation of a first finger or two phalanges thereof 15 Total amputation of any other finger of a hand or of two phalanges thereof 5 Lower limbs % of Sum Insured Total loss of movement of a hip 20 Amputation of a leg above the knee joint 60 Amputation of a leg keeping the knee joint 55 Amputation of a foot 50 Partial amputation of a foot keeping the heel 20 Total loss of movement of a knee 20 Total paralysis of the external popliteur sciatica 15 Total loss of movement of an ankle 15 Amputation of a big toe 10 Shortening of a leg by 5 cm or more 10 Serious difficulties in walking following fracture of one of the heel bones 10 Amputation of any other toe 5 When applying the scale above, the following rules will be taken into account: 1) The compensation percentages for upper limbs should be reduced by 15 per 100 when it is not the dominant side (injuries to the left limb of a right-handed person and vice versa), save in the event of a hand combined with that of a foot. 2) The compensations will be fixed regardless of the profession and age of the Insured, as well as any other factor not covered in the scale. 3) When there are several types of disability derived from one Accident, their relevant compensation percentages will be accumulated, with a maximum of 100 per 100 of the Sum Insured for this warranty. 4) The absolute and permanent functional impotence of a member or organ will be considered to be a total loss thereof. 5) The sum of the percentages of compensation for various types of partial disability in one member or organ may not be more than the percentage established for its total loss. 6) The types of disablement not expressly specified in the scale will be indemnified by analogy with other cases that feature in it.
+
+----------------------------------------
+
+--- Page 18 | unknown | General ---
+🔸 ORG: EXCLUSIONS
+🔸 ORG: Injury
+🔸 ORG: Insured
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: The Assistance Company
+🔸 ORG: the First Instance Court Magistrate
+🔸 PERSON: Common Carriers
+🔸 PERSON: Insurer
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 18 7) Partial limitations and anatomical losses will be indemnified in proportion to the loss or absolute functional impotence of the limb or organ affected. 8) If a member or organ affected by an Accident had amputations or functional limitations prior thereto, the percentage compensation applicable will be the difference between that of the pre-existing disability and that resulting after the Accident. The degree of disability, for the effects of definitive compensation, will be established by The Assistance Company when the physical condition of the Insured is medically acknowledged to be the final condition and the latter furnishes the relevant medical certificate of disablement. If after twelve months have elapsed after the date of the Accident, it still cannot be established, the Insured may ask The Assistance Company for a new deadline of up to twelve months more, after which the latter will have to establish the disablement on the basis of which it considers will be the final outcome. If the Insured should fail to accept the proposal made by The Assistance Company, on the basis of the medical certificate of disablement and on the basis of the policy scale, the following regulations will apply: 1) Each party will appoint a medical expert, and acceptance thereof shall be recorded in writing. If one of the parties should have failed to make the appointment, it will be obliged to do so in the eight day period after the date on which it is required to do so by the party that had appointed their expert; should it fail to do so in that time limit, it will be construed that it accepts the decision reached by the other party’s expert, and will be bound to comply with it. 2) If the experts should reach an agreement, it will be set forth in a joint procedure, in which the causes of the loss, the degree of disablement and the other circumstances that influence the establishment thereof will be placed on record, as well as the proposal for the relevant percentage compensation. 3) When the medical experts fail to reach an agreement, both parties will appoint, by agreement, a third expert, In the event that they should fail to do so, this will be done by the First Instance Court Magistrate of the home address of the Insured, in a voluntary jurisdiction procedure and by means of the procedures envisaged for the appointing experts by ballot in the Rules of civil law procedure. 4) If the decision of the experts were challenged, The Assistance Company shall pay the minimum amount of what it might owe, according to the circumstances that it knows, and if it were not, it will pay, within five days, the amount of the compensation indicated by the experts. 5) If The Assistance Company were to delay payment of the compensation that had become irrefutable and the Insured were obliged to claim it in court, the relevant compensation will be increased by 20 per 100 per year, which will start to accrue from the time that the evaluation became irrefutable for The Assistance Company and, in any case, with the amount of the expenses that the Insured had incurred as a result of the process. EXCLUSIONS TO SECTION (4): The Insurer and /or The Assistance Company shall not be liable for Claims resulting from: a) Travel by aircrafts or any other Common Carriers whether licensed to carry passengers against fare or not. b) Armed conflicts (having existed or not official declaration of war). c) The use of helicopters and means of aerial navigation not authorized for the public transporting of passengers. d) Active participation in criminal acts or in bets, challenges or arguments except in the case of legitimate self-defense or state of need. e) Participations in any organized dangerous competition, races, sports and training thereon. f) Suicide or attempting suicide or any willful Injury.
+
+----------------------------------------
+
+--- Page 19 | unknown | General ---
+🔸 ORG: Accident
+🔸 ORG: Injury
+🔸 ORG: Insured
+🔸 ORG: LEGAL
+🔸 ORG: LIABILITY
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: The Assistance Company
+🔸 ORG: the Country of Residence
+🔸 ORG: the General Conditions
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 19 g) Addiction to alcohol or narcotics or misuse of drugs. h) Blood transfusion and Acquired Immune Deficiency Syndrome (AIDS). i) Any bodily Injury or sickness the Insured was suffering from prior or at the commencement of this Policy. j) Pregnancy, childbirth, miscarriage (whether legitimate or not) and any complications resulting there from. k) Death or total permanent disability as a direct result from an Accident, which occurred in the Country of Residence of the Insured. NOTWITHSTANDING THE FIRST EXCLUSIONS, IT IS HEREBY DECLARED AND AGREED THAT THIS POLICY IS EXTENDED TO COVER DEATH OR TOTAL PERMANENT DISABILITY OF THE INSURED WHILST TRAVELING IN A COMMON CARRIER SUBJECT TO A MAXIMUM COMPENSATION FOR ANY ONE SINGLE CLAIM AFFECTING A GROUP OF INSUREDS TRAVELING TOGETHER OF USD 500,000 AND IN SUCH AN EVENT THE MAXIMUM COMPENSATION OF USD 500,000 SHALL BE PROPORTIONATELY DISTRIBUTED BETWEEN ALL ELIGIBLE BENEFICIARIES. PERSONAL LIABILITY, LEGAL FEES AND BAIL BOND 1) PERSONAL LIABILITY The Assistance Company shall indemnify the Insured person, up to the sum specified in the schedule, for any money that he legally has to pay, relating to an accident during the Period of Insurance that causes: a) death or injury to Any person; or b) loss of or damage to property. The Assistance Company will also pay, with prior written consent, any extra costs or expenses that he has to pay. Conditions (in addition to the General Conditions): a) The Insured person must immediately notify The Assistance Company, in writing, giving full details of any incident likely to give rise to a claim. b) The Insured person must forward every letter, writ, summons and process to The Assistance Company immediately on receipt. c) The Insured person must not admit any liability or pay, offer to pay, promise to pay or negotiate any claim without The Assistance Company’s written consent. d) The Assistance Company shall be entitled, if it wishes so, to take over and conduct in the name of the Insured person, the defence of any claims for indemnity or damages or otherwise against any third party, in which case full cooperation and information must be provided by the Insured person. e) In the event of death of the Insured person, his legal representative will have the protection under this benefit provided he complies with the terms and conditions outlined. 2) ADVANCE OF BAIL BOND The Assistance Company shall, subject to maximum limit specified in the schedule and prior approval of The Assistance Company, provide the bail bond required by criminal judicial authorities to guarantee provisional release from custody on an Insured person following any inadvertent contravention or infringement in a visiting country, the necessary amount being made available as an advance. The Insured person shall refund the advance made: a) As soon as it is returned in the event of cancellation of the proceeding or acquittal; or b) Within 15 days of the court decision which becomes enforceable if a sentence is passed.
+
+----------------------------------------
+
+--- Page 20 | unknown | General ---
+🔸 GPE: Kidnap
+🔸 ORG: Illness and/or Injury
+🔸 ORG: Insured
+🔸 ORG: Journey
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: The Assistance Company
+🔸 ORG: an Insured Person
+🔸 ORG: the Armed Forces or Security Forces
+🔸 ORG: the General Conditions
+🔸 ORG: the Insured Person
+🔸 PERSON: Hijack
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 20 c) In all cases, within three months from the date of payment. 3) LEGAL ASSISTANCE The Assistance Company shall, subject to maximum limit specified in the schedule, reimburse the expenses incurred on judicial actions to obtain pecuniary repair of physical damage suffered resulting from an accident involving the liability of a third party Conditions (in addition to the General Conditions): The Insured person shall refrain from taking legal proceedings without prior approval from The Assistance Company, failing which he will lose the benefit of this cover. However, if the claim warrants urgent measures to safeguard the position of the Insured person, then he may resort to them provided The Assistance Company is notified within 48 hours. 4) HIJACK/ KIDNAP In the event that the Insured person is prevented from reaching their scheduled destination through hijack of the aircraft or other vehicle in which they are travelling for and excess of (x) hours (as the Schedule of Benefit). The Assistance Company shall reimburse an amount per hour for each 24 hours the Insured person is incarcerated up to a maximum mentioned in the schedule of benefits. The Assistance Company shall not pay for any claim where the Insured person has not obtained a written statement from an appropriate authority confirming the hijack and how long it lasted. If an Insured Person is the victim of a Kidnap or Hijack the insurance provided by this Policy for such Insured Person shall continue for a period not exceeding twelve months from the date of Kidnap or Hijack to enable the Insured Person to complete the original Journey or to return to the Usual country of residence. TERRORISM EXTENSION The cover provided by this extends to include injury loss or damage to an Insured person as an innocent bystander by act of terrorism. The cover by this section is only applicable if the terrorism extension option is selected and stated in the Policy Schedule. GENERAL EXCLUSIONS 1) Loss, damage, Illness and/or Injury directly or indirectly caused by, arising out of, and/or during, and/or in consequence of the following are excluded from the guarantee/Cover granted under this Policy: a) The bad faith of the Insured, by his/her participation in criminal acts, or as a result of his/her fraudulent, seriously negligent or reckless actions including those actions of the Insured in a state of derangement or under psychiatric treatment costs for which are themselves excluded. b) Extraordinary natural phenomena such as floods, earthquakes, landslides, volcanic eruptions, atypical cyclonic storms, falling objects from space and aerolites, and in general any extraordinary atmospheric, meteorological, seismic or geological phenomenon any other type of natural disaster. c) Events arising from terrorism, mutiny or crowd disturbances. d) Events or actions of the Armed Forces or Security Forces in peacetime. e) Wars, with or without prior declaration, and any conflicts or international interventions using force or duress or military operations of whatever type with the exception of indoor training programs and conferences. f) Those caused by or resulting from radioactive materials and nuclear energy. g) Those caused when the Insured takes part in bets, challenges or brawls, save in the case of legitimate defence or necessity.
+
+----------------------------------------
+
+--- Page 21 | unknown | General ---
+🔸 GPE: Hazardous
+🔸 GPE: Injuries
+🔸 ORG: Chronic Medical Conditions
+🔸 ORG: European Territory
+🔸 ORG: Illness
+🔸 ORG: Insured
+🔸 ORG: Mental Health
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: Premium
+🔸 ORG: Students
+🔸 ORG: The Assistance Company
+🔸 ORG: the Insured Person
+🔸 PERSON: Tel
+🔸 PERSON: and/or delay
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 21 h) Illness or Injuries existing prior to the claim, unless expressly included in the Private or Special Conditions and subject to payment of the relevant surcharge Premium. i) Those that occur as a result of the participation by the Insured in competitions, sports, and preparatory or training tests. j) Engaging in the following sports: motor racing or motorcycle racing in any of its modes, big game hunting outside European Territory, underwater diving using artificial lung, navigation in international waters in craft not intended for the public transport of passengers, horse riding, climbing, pot holing, boxing, wrestling in any of its modes, martial arts, parachuting, hot air ballooning, free falling, gliding and, in general, any sport or recreational activity that is known to be dangerous. k) Participation in competitions or tournaments organised by sporting federations or similar organisations. l) Hazardous winter and/or summer sports such as skiing and/or similar sports. m) Permanent resident and students (excluding Insured students under the Students plan) outside of resident country n) The use, as a passenger or crew, of means of air navigation not authorized for the public transport of travellers. o) Work or labor accidents, resulting from risks inherent to the work performed by the Insured. Does not apply to Insured persons under the Employment Plan. p) Internationally and locally recognized epidemics. q) Illnesses or Injuries arising from chronic ailments or from those that existed prior to the inception date of the policy. r) Death as a result of suicide and the Injuries or after-effects brought about by suicide and/or attempted suicide or any self-inflicted Injuries. s) Illness, Injuries or pathological states caused by the voluntary consumption of alcohol, drugs, toxic substances, narcotics or medicines acquired without medical prescription, as well as any kind of mental Illness or mental imbalance. t) Illness or Injuries resulting from refusal and/or delay, on the part of the Insured or persons responsible for him/her, in the transfer proposed by The Assistance Company and agreed by its medical Service. u) Illness or Injuries caused by pregnancy and childbirth or any complication therefore or voluntary termination of pregnancy. v) Mental Health diseases including stress, anxiety, depression and nervous disorder. w) Venereal sexually transmitted diseases. x) Gynaecological diseases. y) All pre-existing, congenital, psychiatric and/or Chronic Medical Conditions. z) Any cardiac or cardio vascular or vascular or cerebral vascular Illness or conditions or after-effects thereof or complications that, in the opinion of a medical practitioner appointed by The Assistance Company, can reasonably be related thereto, if the Insured Person has received medical advice or treatment (including medication) for hypertension 2 years prior to the commencement of the Protected Journey. aa) Diagnosis and treatment services for complication of excluded illnesses. • Travelling to seek medical treatment or waiting for an operation, post operation check- up or any other hospital treatment, or any medical investigations, tests or test results. • Travelling against the advice of a doctor or considered not fit to travel by The Assistance Company. • Travelling to seek immigration or political asylum. ab) Consequential loss of any kind.
+
+----------------------------------------
+
+--- Page 22 | unknown | General ---
+🔸 ORG: Agreement
+🔸 ORG: Authorized Healthcare Service Providers
+🔸 ORG: General Exclusions
+🔸 ORG: Healthcare Services
+🔸 ORG: Healthcare Services & Treatments for In-Vitro Fertilization
+🔸 ORG: Illnesses
+🔸 ORG: Insured
+🔸 ORG: Limited
+🔸 ORG: Medical Services
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: Services
+🔸 ORG: Spouse
+🔸 ORG: Terrestrial Medical
+🔸 ORG: The Assistance Company
+🔸 ORG: the Additional Clauses
+🔸 ORG: the Emergency Dental Care Abroad
+🔸 ORG: the Insured Person
+🔸 PERSON: Hepatitis A.
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 22 2) In addition to the foregoing General Exclusions, the following Benefits are not Covered by this insurance: a) The Services arranged by the Insured on his/her own behalf, without prior communication or without the consent of The Assistance Company, except in the case of an extreme emergency/urgent necessity. In that event, the Insured shall furnish The Assistance Company with the vouchers and original copies of the invoices. b) Assistance or medical Services, which are not medically necessary and all Elective and/or non- Emergency medical condition and its complications. c) Rehabilitation treatments. d) Prostheses, orthopaedic material or thesis and osteosynthesis material, as well as spectacles. e) Assistance or compensation for events that occurred during a trip that had commenced, in any of the following circumstances: • Before this insurance comes into force. • With the intention of receiving medical treatment. • After the diagnosis of a terminal Illness. f) Expenses that arise once the Insured is at his/her Usual Country of Residence, those incurred beyond the scope of application of the guarantees of the insurance, and, in any case, after the dates of the travel object of the Agreement have elapsed or after 90 days has elapsed since the start thereof, notwithstanding what is provided for in the Additional Clauses or in the Private or Special Conditions. g) All expenses relating to dental treatment, dental prostheses, and orthodontic treatments unless the claim is eligible under the Emergency Dental Care Abroad benefit. h) Services that do not require continuous administration by specialized medical personnel. i) Personal comfort and convenience items (television, barber or beauty Service, guest Service and similar incidental Services and supplies). j) Medical Services that are not performed by Authorized Healthcare Service Providers, apart from medical Services rendered in a Medical Emergency. k) Prosthetic devices and consumed medical equipment’s. l) Treatments and Services arising as a result of hazardous activities, including but not Limited to, any form of aerial flight, any kind of power-vehicle race, water sports, horse riding activities, mountaineering activities, violent sports such as judo, boxing, and wrestling, bungee jumping and any professional sports activities. m) Costs associated with hearing tests, vision corrections, prosthetic devices or hearing and vision aids. n) Patient treatment supplies (including elastic stockings, ace bandages, gauze, syringes, diabetic test strips, and like products, non-prescription drugs and treatments, excluding such supplies required as a result of Healthcare Services rendered during a Medical Emergency). o) Services rendered by any medical provider relative of a patient for example the Insured Person and the Insured member’s family, including Spouse, brother, sister, parent or child. p) All Healthcare Services & Treatments for In-Vitro Fertilization (IVF), embryo transport, ovum and male sperms transport. q) Treatments and Services related to viral hepatitis and associated complications, except for treatment and Services related to Hepatitis A. r) Air or Terrestrial Medical evacuation except for Emergency cases or unauthorized transportation Services. s) Medical Services and associated expenses for organ and tissue transplants, irrespective of whether the Insured Person is a donor or recipient. t) Any test or treatment not prescribed by a Doctor. u) Diagnosis and treatment Services for complications of excluded Illnesses.
+
+----------------------------------------
+
+--- Page 23 | unknown | General ---
+🔸 ORG: Insured
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: Stabilization
+🔸 ORG: Student and Employment
+🔸 ORG: The Assistance Company
+🔸 ORG: the Emergency Department
+🔸 PERSON: Tel
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 23 v) One way or open tickets (Return tickets should be purchased before commencing the trip and should end within the period of insurance). This does not apply to Student and Employment plans specifically. w) Incidents which may give rise to a claim not notified to The Assistance Company in writing within 31 days of the end of the trip. x) Operational duties as a member of the armed forces. y) Policies not declared to The Assistance Company within the agreed intervals. z) Policies commencing 150 days or more from the date of policy issuance. aa) Claims not submitted within a maximum of 30 days from the date of occurrence. COMMUNICABLE DISEASE EXCLUSION 1. Notwithstanding any provision to the contrary within this Insurance Policy, this Insurance Policy excludes all actual or alleged loss, liability, damage, compensation, injury, sickness, disease, death, medical payment (Except for Emergency Medical Expenses, including COVID19, until Stabilization), defense cost, sot, expenses or any other incurred by or accruing to the Insured directly or indirectly and regardless of any other cause or event contributing concurrently or in any sequence originating from, caused by, arising out of, contributed to by, resulting from, or otherwise in connection with a Communicable Disease or the death or threat (whether actual or perceived) of a Communicable Disease. 2. As used herein, a Communicable Disease means any disease which can be transmitted by means of any substance or agent from any organism to another organism where: a. The substance or agent includes, but is not limited to, a virus, bacterium, parasite or other organism or any variation thereof, whether deemed living or not, and b. The method of transmission, whether direct or indirect, includes but is not limited to, airborne transmission, bodily fluid transmission, and transmission from or to any surface or object, solid. Liquid or gas between organisms, and c. The disease, substance or agent can cause or threaten bodily injury, illness, emotional distress or damage to human health human welfare or property damage An Emergency is defined as the sudden onset of an illness, injury or medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) requiring immediate and unscheduled medical care, and if left untreated could result in placing the person’s life and/or health in serious jeopardy; serious impairment to bodily functions; serious dysfunction of a bodily organ or part; serious disfigurement; until stabilization. Stabilization may occur in the Emergency Department or following emergency In-Patient admission till the patient is deemed stable. The patient is considered stable to a condition where: 1) Continue treatment outside the Emergency department/inpatient 2) Or they can be transferred to their residence /Accommodation 3) Or can travel back to country of residence without the need for immediate medical care 4) Stabilization does not include routine or non-life-threatening conditions or symptoms
+
+----------------------------------------
+
+--- Page 24 | unknown | General ---
+🔸 GPE: France
+🔸 ORG: Contact The Assistance Company
+🔸 ORG: Insured
+🔸 ORG: Medical Report, Police Report or Notification of Loss or
+🔸 ORG: PEOPLE’S INSURANCE PLC
+🔸 ORG: Services
+🔸 ORG: The Assistance Company
+🔸 ORG: Theft, Airline Report of Delay
+🔸 PERSON: Beneficiary
+🔸 PERSON: Tel
+🔸 PERSON: b. Send
+🔸 PERSON: c. Send
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) No.07, Havelock Road, Colombo 05. Tel: (011) 2126126 Fax: (011) 2126042 24 HOW TO REQUEST ASSISTANCE? Upon occurrence of any event potentially covered under the schedule of benefits, the Beneficiary or their designated representative shall promptly contact The Assistance Company (operational 24 hours a day, 7 days a week) specified below. This centre stands ready to provide immediate assistance to anyone in need. The liability of The Assistance Company shall be conditional on the Insured claiming indemnity or Benefit having complied with and continuing to comply with the terms of this Policy. If a Benefit Covered by the policy or assistance is needed, the Insured shall: 1) Take all reasonable precautions to minimize the loss. 2) As soon as possible contact The Assistance Company (Swan International Assistance) to notify the claim stating the Benefits required: Available 24 Hrs. / 7 days Country Contact Numbers USA / Canada +1 514 448 4417 France / Europe +33 9 70 73 22 47 International +961 9 211 662 Email: request@swanassistance.com 3) Freely provide all relevant information. 4) Make “NO” admission of liability or offer promise or payment of any kind. In the cases where the Insured, only due to force majeure or any reason beyond his control cannot contact The Assistance Company directly to request the Services or Benefits Covered by the policy, the Insured can seek for expenses reimbursement in writing as follows: a. Contact The Assistance Company to obtain a “CASE NUMBER”. b. Send an explanation letter of the circumstances of why the “Services or Benefits” for which expenses are being claimed were not requested or obtained from The Assistance Company directly. c. Send the official documents (such as Medical Report, Police Report or Notification of Loss or Theft, Airline Report of Delay, Cancellation, Lost Luggage, etc.) and original receipts of the expenses incurred. The Assistance Company is NOT liable in respect of any Benefit, which would otherwise be payable under this Policy, should there be another insurance in force Covering the same contingencies. The Assistance Company, at its discretion will consider reimbursing any expenses, totally or partially, after an internal assessment and case study is done. The amounts (if any) reimbursed, will not exceed under any circumstance the amounts The Assistance Company would have paid to provide the Services directly if it was contacted in due time and manner by the Insured at the time the claim occurred. Important Note: The Assistance Company will not be liable to provide any assistance when: a) As a result of force majeure, it is unable to put into effect any of the Benefits specifically envisaged in this policy. The Assistance Company has multiple contingency plans and back-up offices alongside different power sources in each office. b) The provision of which would endanger the lives of those persons intended to provide the assistance.
+
+----------------------------------------
