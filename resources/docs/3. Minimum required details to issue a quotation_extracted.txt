@@ -1,0 +1,20 @@
+
+--- Page 1 | unknown | General ---
+🔸 ORG: Contractor’s Plant & Machinery
+🔸 ORG: Fire Insurance
+🔸 ORG: Limit of Liability
+🔸 ORG: the Fire & Allied
+🔸 PERSON: Arrival Date
+
+Text:
+Minimum required details to issue a quotation Fire Insurance ➢ Nature of work being carrying out at the insuring premises ➢ Location address ➢ Property to be covered and Values ➢ Last 5 years Claims / Incidents Details Niwahana Insurance ➢ Location address ➢ Required scheme Travel Insurance ➢ Date of Birth ➢ Departure date ➢ Arrival Date ➢ Purpose of travel ➢ Country of travel Contractor’s Plant & Machinery ➢ Type of Machine ➢ Year of Make ➢ Sum Insured ➢ Usage Public Liability Insurance ➢ Nature of work being carrying out at the insuring premises ➢ Location address ➢ Limit of Liability ( Per event and aggregate ) ➢ Last 5 years Claims / Incidents Details Business Interruption Insurance ( This is an extension to the Fire & Allied perils insurance or Property All Risk policies ) ➢ Annual Estimated Turnover ➢ Estimated Gross Profit to be insured ➢ Last 5 years Claims / Incidents Details Electronic Equipment Insurance ➢ Nature of work being carrying out at the insuring premises ➢ Location address ➢ Last 5 years Claims / Incidents Details ➢ Type of Equipment including Year of Make ➢ Sum Insured
+
+----------------------------------------
+
+--- Page 2 | unknown | General ---
+🔸 PERSON: Sum Insured
+
+Text:
+Money Insurance ➢ Nature of work being carrying out at the insuring premises ➢ Location where the transit is commencing ➢ Description of Transit Including Distance ➢ Maximum Limit per Transit ➢ Maximum Limit of Cash in Safe ➢ Estimated Annual Carrying Personal Accident Insurance ➢ Occupation of the insured or insuring persons ➢ Sum Insured per person ➢ Past Claims / Incidents Details Workmen’s Compensation Insurance ➢ Occupation of insuring persons ➢ Location where the job is being carrying out ➢ Occupation Category wise Estimated Annual wages/salaries ➢ Last 5 years Claims / Incidents Details
+
+----------------------------------------
