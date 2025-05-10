@@ -1,0 +1,85 @@
+
+--- Page 1 | unknown | General ---
+🔸 ORG: PEOPLE’S INSURANCE PLC
+
+Text:
+PEOPLE’S INSURANCE PLC (Company No. PB 3754 PQ) 07, Havelock Road, Colombo 05. T: +94 11-2126 126 F: +94 11-2126 042
+
+----------------------------------------
+
+--- Page 2 | unknown | General ---
+🔸 ORG: Company
+🔸 ORG: Conditions
+🔸 ORG: Insured
+🔸 ORG: People's Insurance PLC
+🔸 ORG: the Total Sum Insured
+🔸 ORG: • Accidental
+🔸 ORG: • Fire, Lightning & Explosion
+🔸 ORG: • Flood Cover
+🔸 PERSON: Schedule
+
+Text:
+SOLAR PANELS (PHOTO VOLTAIC) INSURANCE POLICY Whereas the Insured has by a proposal and declaration which shall be the basis of this contract and is deemed to be incorporated herein has applied to People's Insurance PLC. (hereinafter called the Company) for the insurance and has paid or agreed to pay the premium, in consideration for such insurance the Company agrees subject to the terms, exceptions, limits, and conditions contained herein or endorsed hereon if during the Period of Insurance the Property Insured or any part thereof be lost or damaged by • Fire, Lightning & Explosion, • Storm and tempest including cyclone, • Flood Cover loss or damage directly caused by flood which for the purpose hereof shall mean the escape of water from the normal confines of any natural or artificial water course, lake, reservoir, canal or dam, but excluding destruction, damage by bursting or overflowing of water tanks, apparatus or pipes • Earthquake and its consequences • Accidental damage • Electrical inclusion In consideration of the payment of an additional premium the Company agrees to pay, loss or damage by fire to the electrical appliances and installation insured by the within Policy arising from or occasioned by over- running, excessive pressure, short circuiting, arcing, self-heating or leakage of electricity, from whatever cause (lightning included) is covered subject to the terms and conditions of this policy, but it is expressly understood that no liability exists under this policy, for loss or damage to any electrical machine, apparatus, fixture or fitting, or to any portion of the electrical installation, unless caused by fire or lightning. not hereinafter excepted while in the Situation then the Company will by payment or at its option by reinstatement or repair indemnify the Insured the amount of such loss or damage not exceeding in respect of anyone article the sum set against such article in the Schedule nor during one period of insurance the Total Sum Insured. EXCEPTIONS 1. This Insurance does not cover any loss or damage occasioned by or through or in consequence, directly or indirectly, of any of the following occurrences, namely 1.1 1.2 1.3 war, invasion, acts of foreign enemies, hostilities or warlike operations (whether war be declared or not), civil war. mutiny, civil commotion, tribal rising, military rising, insurrection, strike, riot, rebellion, revolution, military or usurped power, martial law or state of siege or any of the events or causes which determine the proclamation or maintenance of martial law or state of siege, permanent or temporary dispossession resulting from confiscation or detention, requisition or willful destruction by any lawfully constituted authority. any act of terrorism An act of terrorism means an act, including but not limited to the use of force or violence and / or the threat thereof, of any person or group(s) of persons, whether acting alone or on behalf of or in connection with any organization(s) or government(s), committed for political, religious, ideological, or ethnic purposes or reasons including the intention to in luence any government and / or to put the public, or any section of the public, in fear. This Insurance also excludes loss, damage, cost or expense of whatsoever nature, directly or indirectly caused by resulting from or in connection with any action taken in controlling, prevailing, suppressing or in any way relating to (1.1,1.2) and / or (1.3) above. Any loss, damage or destruction happening during the existence of abnormal Conditions (whether physical or otherwise) which are occasioned by or through or in consequence, directly or indirectly, of any of the said occurrences shall be deemed to be loss, damage or destruction which is not covered by this Insurance, except to the extent that the Insured shall prove that such loss, damage or destruction happened independently of the existence of such abnormal Conditions. In any action, suit or other proceedings where the Company alleges that by reason of the provisions of this Condition any loss or damage is not covered by this Insurance, the burden of proving that such loss or damage is covered shall be upon the Insured. 2. loss, damage, cost or expense of whatsoever nature directly or indirectly caused by resulting from or in connection with any of the following regardless of any other cause or event contributing currently or in any other sequence to the loss: 02
+
+----------------------------------------
+
+--- Page 3 | unknown | General ---
+🔸 GPE: Insured
+🔸 ORG: CONDITIONS 1
+🔸 ORG: Company
+🔸 ORG: Insured
+🔸 ORG: Property
+🔸 PERSON: Law
+🔸 PERSON: Schedule
+🔸 PERSON: c. any
+
+Text:
+a. ionizing radiations from or contamination by radioactivity from any nuclear fuel or from any nuclear installation, reactor or other nuclear assembly or nuclear fuel. b. the radioactive, toxic explosive or other hazardous or contaminating properties of any nuclear installation, reactor or other nuclear assembly or nuclear component thereof. c. any weapon of war employing atomic or nuclear ission and / or fusion or other like reaction or radioactive force or matter. 3. loss or damage arising from – a. insect, vermin, wear and tear, mildew, rot, gradual deterioration and depreciation b. mechanical or electrical breakdown or derangement, c. any process of cleaning, dyeing, repairing or restoring, d. action of light, atmospheric or climatic conditions, or external temperature, e. breakage or scratching of glass or other substances of a brittle nature unless caused by ire or thieves, f. detention, confiscation, destruction or requisition by customs or other officials or authorities, or by seizure or sale under any process of Law, or abandonment of the Property to the Insured, 4. loss of or damage to any part whilst removed from its normal working position, or damage to lighting tubes unless the glass is fractured, 5. Inherent fault or defective workmanship, defective material or design, 6. any loss or damage arising from theft or dishonesty committed by any person in the employment of the Insured, 7. loss or damage to computer software 8. loss or damage directly or indirectly caused by contributed to by or arising from, a. Ionising radiations or contamination by radioactivity from any nuclear fuel or from any nuclear waste from the combustion of nuclear fuel. b. The radioactive, toxic, explosive or other hazardous properties of any explosive nuclear assembly or component thereof. 9. Loss or damage caused by rain (whether driven by wind or not) unless containing the property insured shall first sustain actual damage by direct force of a cyclone, storm and tempest. 10. Loss or damage caused directly or indirectly by landslide, subsidence or inundation from the sea, whether or not incidental to cyclone, storm and tempest. 11. Loss or damage by flood caused by overflowing bursting or leakage of water tanks, pipes or apparatus. 12. Loss or damage caused directly or indirectly by landslide, subsidence or inundation from the sea, whether or not incidental to flood. 13. Consequential loss or damage of any kind or description whatsoever. CONDITIONS 1. This Policy and the Schedule shall be read together as one contract and any word or expression to which a specific meaning has been attached in any part of this Policy or of the Schedule shall bear such specific meaning wherever it may appear. 2. The Insured shall take all reasonable precautions to prevent or minimise loss or damage to the property Insured. 3. Immediately upon having knowledge of any event giving rise to a claim under this Policy the Insured shall forthmath give written notice thereof to the Company, and within thirty days thereof deliver to the Company a claim in writing and supply all such detailed proofs and particulars as may be reasonably required. 4. In the case of theft or loss, give notice to the police and render all reasonable assistance in causing the discovery and punishment of any guilty person, and in tracing and recovering the Property, 5. The Company may at any time at its own expense use all legal means in the name of the Insured for recovery of any of the Property lost, and the Insured shall give all reasonable assistance for that purpose. The Company shall be entitled to any Property for the loss of which a claim is paid hereunder and the Insured shall execute all such assignments and assurances of such Property as may be reasonably required, but the Insured shall not be entitled to abandon any Property to the Company. 03
+
+----------------------------------------
+
+--- Page 4 | unknown | General ---
+🔸 ORG: Arbitration
+🔸 ORG: Company
+🔸 ORG: Insured
+🔸 ORG: Premium Warranty Clause
+🔸 ORG: Property
+🔸 ORG: Sum Insured
+🔸 ORG: the Period of Insurance
+🔸 ORG: the Property Insured
+🔸 ORG: the Total Sum Insured
+🔸 PERSON: Cover Note
+🔸 PERSON: Sums Insured
+
+Text:
+6. If at the time of any loss or damage there be any other insurance effected by or on behalf of the Insured covering any of the Property, the liability of the Company hereunder shall be limited to its rateable proportion of such loss or damage. 7. If any claim be made by or on behalf of the Insured which shall be in any respect unfounded fraudulent or intentionally exaggerated, or if a false declaration or statement be made in support thereof, no claim shall be recoverable hereunder. 8. All sums which may from time to time be paid under this Policy during each Period of Insurance shall be accounted in diminution of the respective Sums Insured, so that in case of subsequent loss or damage during the same Period of Insurance the total sum payable by the Company shall not in any case exceed the sum set opposite each item of the Property Insured or in the whole the Total Sum Insured. 9. This Policy may be cancelled at any time by registered letter from the Company to the Insured's last known address, and in such event the Company will return a pro rata portion of the premium for the unexpired part of the Period of Insurance. 10. If any difference arises as to the amount to be paid under this Policy (liability being otherwise admitted) the matter will be referred to an arbitrator appointed by the parties in accordance with the statutory provisions relating to Arbitration then in force and the making of an Award shall be a condition precedent to any right of action against the Company. 11. Premium Warranty Clause. 11.1 11.2 11.3 Notwithstanding anything herein contained but subject to clause 11.2 and 11.3 hereof, it is hereby agreed and declared that the full premium due and payable in respect of this insurance is required to settled to the Company on or before the premium due date specified in the Schedule of this Policy, Renewal Certificate, Endorsement or Cover Note (Which shall be able not exceeding Sixty (60) days from the date of Inception of the Policy) and in the absence of any such premium due date. The full settlement of the premium is required to be made or effected on or before the expiry of the Sixty (60) days from the date of inception of this Policy, Renewal Certificate, Endorsement or Cover Note (hereinafter referred to as the "due date") For the purpose of this warranty the "due date" shall be recognized from the date of inception or commencement of the coverage. It is also declared and agreed that the settlement of the full premium on or before the due date shall operate as a condition precedent to the Company's liability or an obligation to settle claim under this Policy, Renewal Certificate, Endorsement, or Cover Note. In the event of any claim arises between date of commencement of this insurance and the "due date" for the settlement of premium, the Company may defer any decision on liability or postpone the settlement of any such claim until full settlement of the premium is effected on befoie the "due date". It is also declared and agreed that where the full premium payable hereunder remains outstanding as at the closure of business of the insurer on the "due date" then the cover under this insurance and any obligations assumed or imputed under this insurance shall stand to be canceled, ceased and revoked immediately. However, such cancellation will not prejudice. the rights of the Company to invoke any legal defence or to recover the full or any part of the defaulted premium attributable to the expired period of the insurance. 12. The due observance and fulfillment of the Terms, Conditions and Endorsements of this Policy by the Insured in so far as they relate to anything to be done or complied with by him and the truth of the statements and answers in the said proposal and information shall be conditions precedent to any liability of the Company to make any payment under this Policy. LIMITS The liability of the Company under this Policy during any one Period of Insurance shall not exceed a. In respect of any one item of the Property Insured the sum set opposite thereto. b. In respect of loss of or damage to any article forming part of a pair or set the value of the particular part or parts which may be lost or damaged without reference to any special value which such part or parts may have as forming a pair or set, but in any event not exceeding a proportionate part of the Sum Insured in respect of the pair or set, c. in respect of all loss or damage the Total Sum Insured. If at the time of any loss or damage the Sum Insured by any item shall be less than the total value of the Property covered thereby the Insured shall be considered his own insurer for the difference and shall bear a ratable proportion of such loss or damage. 04
+
+----------------------------------------
+
+--- Page 5 | unknown | Leadership ---
+🔸 GPE: East Tower
+🔸 ORG: ADR
+🔸 ORG: Alternative Dispute Resolution
+🔸 ORG: I. Address
+🔸 ORG: People’s Insurance PLC
+🔸 ORG: Please
+🔸 ORG: The Trilingual Complaints Handling Procedure
+🔸 ORG: WhatsApp - 0716230048 •
+🔸 ORG: World Trade Centre Colombo
+🔸 ORG: info@ircsl.gov.lk
+🔸 ORG: • Complaint
+🔸 ORG: • References: Policy
+🔸 PERSON: Vajira Road
+
+Text:
+Complaints Procedure We are committed to serve you with passion and willing to receive your feedback. If you are not satisfied with our services, you can lodge a complaint by below methods; • By telephone - Customer Care Officer - 011 2126136 By email - pilassist@peoplesinsurance.lk • By WhatsApp - 0716230048 • By fax - 011 2126109 • By post - Customer Care Officer, People’s Insurance PLC, No. 07, Havelock Road, Colombo 05 • Via online - Complaint Submission Form is available on our website www.peoplesinsurance.lk → Please click on the "Complaints" tab • By visiting Below information to be provided when lodging a complaint; • Complaint in brief • Your name and contact details • References: Policy No. / Vehicle No. / Claim No. • Any supporting documents The Trilingual Complaints Handling Procedure can be downloaded from our website - www.peoplesinsurance.lk → Please click on the "Complaints" tab Dispute Resolution If you are not satisfied with the resolution given by us for a complaint lodged, you have the option to use following Alternative Dispute Resolution (ADR) mechanisms. I. Address your concerns to: Insurance Ombudsman of Sri Lanka No. 143A, Vajira Road, Colombo 05 info@insuranceombudsman.lk 011 2505542 / 011 250 5041 II. Arbitration As per the Arbitration Clause in the Policy Wording III. Address your concerns to: Director Investigations Insurance Regulatory Commission of Sri Lanka Level 11, East Tower, World Trade Centre Colombo 01 011 2396184-9 / 011 2335167 investigation@ircsl.gov.lk / info@ircsl.gov.lk 05
+
+----------------------------------------
+
+--- Page 6 | 2021 | General ---
+🔸 ORG: FR/PD-03 Issued Date
+
+Text:
+Doc. No. FR/PD-03 Issued Date: 2021.01.01, Issue No. 02 06
+
+----------------------------------------
