@@ -1,0 +1,25 @@
+name: Deploy to Production
+
+on:
+  push:
+    branches: [ main ]  
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to production server
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
+            cd /var/www/chatbotgeneral
+            git pull
+            source venv/bin/activate
+            pip install -r requirements.txt
+            sudo systemctl restart chatbotgeneral  # If using systemd
+            # OR
+            # pkill -f "uvicorn app.main:app"
+            # nohup uvicorn app.main:app --host 0.0.0.0 --port 8090 > app.log 2>&1 &
