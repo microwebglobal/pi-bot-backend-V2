@@ -12,16 +12,6 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
     
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10.12'  
-    
-    - name: Create application archive
-      run: |
-        # Create a tar file with your application
-        tar -czf app.tar.gz --exclude='.git' --exclude='.github' --exclude='__pycache__' --exclude='*.pyc' .
-    
     - name: Deploy to server
       uses: appleboy/ssh-action@master
       with:
@@ -33,17 +23,18 @@ jobs:
           BACKUP_DIR="/var/www/backup/$(date +%Y%m%d_%H%M%S)"
           mkdir -p $BACKUP_DIR
           
-          # Backup current application (excluding venv)
+          # Backup current application (excluding venv and logs)
           if [ -d "/var/www/chatbotgeneral" ]; then
-            cp -r /var/www/chatbotgeneral/* $BACKUP_DIR/ 2>/dev/null || true
             # Preserve the virtual environment
             if [ -d "/var/www/chatbotgeneral/venv" ]; then
               mv /var/www/chatbotgeneral/venv /tmp/venv_backup
             fi
+            # Backup other files
+            find /var/www/chatbotgeneral -mindepth 1 -not -name 'venv' -not -name '*.log' -exec cp -r {} $BACKUP_DIR/ \; 2>/dev/null || true
           fi
           
-          # Clean application directory
-          rm -rf /var/www/chatbotgeneral/*
+          # Clean application directory but keep venv
+          find /var/www/chatbotgeneral -mindepth 1 -not -name 'venv' -not -name '*.log' -delete 2>/dev/null || true
           mkdir -p /var/www/chatbotgeneral
     
     - name: Copy application files
@@ -52,10 +43,20 @@ jobs:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.SSH_PRIVATE_KEY }}
-        source: app.tar.gz
-        target: /var/www/chatbotgeneral/
+        source: "."
+        target: "/var/www/chatbotgeneral/"
+        rm: false
+        strip_components: 0
+        exclude: |
+          .git
+          .github
+          __pycache__
+          *.pyc
+          *.pyo
+          *.log
+          venv
     
-    - name: Extract and start application
+    - name: Install dependencies and start application
       uses: appleboy/ssh-action@master
       with:
         host: ${{ secrets.HOST }}
@@ -63,10 +64,6 @@ jobs:
         key: ${{ secrets.SSH_PRIVATE_KEY }}
         script: |
           cd /var/www/chatbotgeneral
-          
-          # Extract the application
-          tar -xzf app.tar.gz
-          rm app.tar.gz
           
           # Restore or create virtual environment
           if [ -d "/tmp/venv_backup" ]; then
@@ -92,6 +89,7 @@ jobs:
           if pgrep -f "uvicorn app.main:app"; then
             echo "✅ Deployment successful!"
             echo "Application is running on port 8090"
+            curl -s http://localhost:8090 || echo "App started but not responding yet"
           else
             echo "❌ Deployment failed!"
             echo "Logs:"
