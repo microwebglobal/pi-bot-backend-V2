@@ -107,7 +107,7 @@ class VectorStore:
             ).get("matches", [])
 
             semantic_docs = [
-                (Document(page_content=m["metadata"]["text"]), m["score"])
+                (Document(page_content=m["metadata"]["text"], metadata=m["metadata"]), m["score"])
                 for m in semantic_results
             ]
 
@@ -120,7 +120,7 @@ class VectorStore:
             )[:k]
 
             lexical_docs = [
-                (Document(page_content=md["text"]), score)
+                (Document(page_content=md["text"], metadata=md), score)
                 for md, score in bm25_results
             ]
 
@@ -157,54 +157,48 @@ class VectorStore:
         thread_id: str = None,
         system_prompt: str = "You are a strict document-compliant assistant."
     ) -> str:
+        # Build the document context string
         context = "\n\n".join(
-            f"Document {i+1} (Score: {score:.3f}):\n{doc.page_content}"
+            f"{doc.metadata.get('doc_name', f'Document {i+1}')} (Score: {score:.3f}):\n{doc.page_content}"
             for i, (doc, score) in enumerate(docs)
         )
 
-        prompt = f"""
-    {system_prompt}
-
-    --- DOCUMENTS ---
-    {context}
-
-    --- QUESTION ---
-    {query}
-
-    --- ANSWER ---
-    Answer strictly based on the documents above. Use bullet points if helpful.
-    """.strip()
-
         try:
-            # Start with system prompt
-            messages = [{"role": "system", "content": system_prompt}]
+            # Compose system message including documents context and instructions
+            system_message = {
+                "role": "system",
+                "content": f"{system_prompt}\n\n--- DOCUMENTS ---\n{context}\n\nAnswer strictly based on the documents above."
+            }
 
-            # Include past messages if available for thread
+            # Prepare the messages list starting with system message
+            messages = [system_message]
+
+            # Add previous chat history (raw Q&A) if available
             if thread_id:
                 if thread_id not in self.chat_threads:
                     self.chat_threads[thread_id] = []
                 messages.extend(self.chat_threads[thread_id])
 
-            # Add current prompt as new user message
-            user_message = {"role": "user", "content": prompt}
-            messages.append(user_message)
+            # Add current user query as a separate user message
+            current_user_message = {"role": "user", "content": query}
+            messages.append(current_user_message)
 
-            # Generate response
+            # Call OpenAI Chat Completion API
             response = openai.chat.completions.create(
                 model="gpt-4o-mini",
                 messages=messages,
                 temperature=0.3,
                 max_tokens=800,
             )
+            print(messages);
 
             assistant_message = {"role": "assistant", "content": response.choices[0].message.content.strip()}
 
-            # Save new exchange to thread
+            # Save the new exchange to chat history if thread_id is provided
             if thread_id:
-                self.chat_threads[thread_id].append(user_message)
+                self.chat_threads[thread_id].append(current_user_message)
                 self.chat_threads[thread_id].append(assistant_message)
 
-            # print(self.chat_threads)
             return assistant_message["content"]
 
         except Exception as e:
