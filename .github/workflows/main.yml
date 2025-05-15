@@ -18,6 +18,8 @@ jobs:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.SSH_PRIVATE_KEY }}
+        script_stop: true
+        command_timeout: 30m  
         script: |
           # Create backup directory with timestamp
           BACKUP_DIR="/var/www/backup/$(date +%Y%m%d_%H%M%S)"
@@ -62,20 +64,28 @@ jobs:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.SSH_PRIVATE_KEY }}
+        script_stop: true
+        command_timeout: 30m  
         script: |
           cd /var/www/chatbotgeneral
           
           # Restore or create virtual environment
           if [ -d "/tmp/venv_backup" ]; then
             mv /tmp/venv_backup venv
+            # Upgrade pip in existing venv
+            source venv/bin/activate
+            python -m pip install --upgrade pip
           else
+            # Create new virtual environment
             python3 -m venv venv
+            source venv/bin/activate
+            python -m pip install --upgrade pip
           fi
           
-          # Install dependencies
+          # Install dependencies with optimizations
           source venv/bin/activate
-          pip install --upgrade pip
-          pip install -r requirements.txt
+          # Use pip-tools or a cache to speed up installations
+          pip install -r requirements.txt --no-cache-dir
           
           # Stop current application
           pkill -f "uvicorn app.main:app" || true
@@ -89,11 +99,12 @@ jobs:
           if pgrep -f "uvicorn app.main:app"; then
             echo "✅ Deployment successful!"
             echo "Application is running on port 8090"
+            # Test the app
             curl -s http://localhost:8090 || echo "App started but not responding yet"
           else
             echo "❌ Deployment failed!"
             echo "Logs:"
-            cat app.log
+            tail -50 app.log
             exit 1
           fi
           
