@@ -1,25 +1,101 @@
-name: Deploy to Production
+name: Build and Deploy to Production
 
 on:
   push:
-    branches: [ main ]  
+    branches: [ main ]
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Deploy to production server
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.USERNAME }}
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
-          script: |
-            cd /var/www/chatbotgeneral
-            git pull
-            source venv/bin/activate
-            pip install -r requirements.txt
-            sudo systemctl restart chatbotgeneral  # If using systemd
-            # OR
-            # pkill -f "uvicorn app.main:app"
-            # nohup uvicorn app.main:app --host 0.0.0.0 --port 8090 > app.log 2>&1 &
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Deploy to server
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        script: |
+          # Create backup directory with timestamp
+          BACKUP_DIR="/var/www/backup/$(date +%Y%m%d_%H%M%S)"
+          mkdir -p $BACKUP_DIR
+          
+          # Backup current application (excluding venv and logs)
+          if [ -d "/var/www/chatbotgeneral" ]; then
+            # Preserve the virtual environment
+            if [ -d "/var/www/chatbotgeneral/venv" ]; then
+              mv /var/www/chatbotgeneral/venv /tmp/venv_backup
+            fi
+            # Backup other files
+            find /var/www/chatbotgeneral -mindepth 1 -not -name 'venv' -not -name '*.log' -exec cp -r {} $BACKUP_DIR/ \; 2>/dev/null || true
+          fi
+          
+          # Clean application directory but keep venv
+          find /var/www/chatbotgeneral -mindepth 1 -not -name 'venv' -not -name '*.log' -delete 2>/dev/null || true
+          mkdir -p /var/www/chatbotgeneral
+    
+    - name: Copy application files
+      uses: appleboy/scp-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        source: "."
+        target: "/var/www/chatbotgeneral/"
+        rm: false
+        strip_components: 0
+        exclude: |
+          .git
+          .github
+          __pycache__
+          *.pyc
+          *.pyo
+          *.log
+          venv
+    
+    - name: Install dependencies and start application
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        script: |
+          cd /var/www/chatbotgeneral
+          
+          # Restore or create virtual environment
+          if [ -d "/tmp/venv_backup" ]; then
+            mv /tmp/venv_backup venv
+          else
+            python3 -m venv venv
+          fi
+          
+          # Install dependencies
+          source venv/bin/activate
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          
+          # Stop current application
+          pkill -f "uvicorn app.main:app" || true
+          sleep 3
+          
+          # Start new application
+          nohup uvicorn app.main:app --host 0.0.0.0 --port 8090 --workers 1 > app.log 2>&1 &
+          
+          # Verify deployment
+          sleep 5
+          if pgrep -f "uvicorn app.main:app"; then
+            echo "✅ Deployment successful!"
+            echo "Application is running on port 8090"
+            curl -s http://localhost:8090 || echo "App started but not responding yet"
+          else
+            echo "❌ Deployment failed!"
+            echo "Logs:"
+            cat app.log
+            exit 1
+          fi
+          
+          # Keep only last 5 backups
+          ls -t /var/www/backup/ | tail -n +6 | xargs -r -I {} rm -rf /var/www/backup/{}
