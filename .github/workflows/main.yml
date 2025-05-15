@@ -18,7 +18,7 @@ jobs:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.SSH_PRIVATE_KEY }}
-        command_timeout: 10m
+        command_timeout: 5m
         script: |
           # Create backup directory with timestamp
           BACKUP_DIR="/var/www/backup/$(date +%Y%m%d_%H%M%S)"
@@ -38,7 +38,7 @@ jobs:
           find /var/www/chatbotgeneral -mindepth 1 -not -name 'venv' -not -name '*.log' -delete 2>/dev/null || true
           mkdir -p /var/www/chatbotgeneral
     
-    - name: Copy application files (without exclude)
+    - name: Copy application files
       uses: appleboy/scp-action@master
       with:
         host: ${{ secrets.HOST }}
@@ -49,47 +49,46 @@ jobs:
         rm: false
         strip_components: 0
     
-    - name: Install dependencies and start application
+    - name: Restart application (skip dependency installation)
       uses: appleboy/ssh-action@master
       with:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.SSH_PRIVATE_KEY }}
-        command_timeout: 10m
+        command_timeout: 2m
         script: |
           cd /var/www/chatbotgeneral
           
-          # Remove .git and .github directories to save space
+          # Clean up unnecessary files
           rm -rf .git .github __pycache__ *.pyc *.pyo
           
-          # Restore or create virtual environment
+          # Restore virtual environment
           if [ -d "/tmp/venv_backup" ]; then
             mv /tmp/venv_backup venv
           else
+            echo "Warning: No virtual environment backup found"
             python3 -m venv venv
+            source venv/bin/activate
+            pip install --upgrade pip
+            pip install -r requirements.txt
           fi
-          
-          # Activate virtual environment
-          source venv/bin/activate
-          
-          # Only install if requirements.txt has changed or venv is new
-          pip install --upgrade pip
-          pip install -r requirements.txt
           
           # Stop current application
           pkill -f "uvicorn app.main:app" || true
           sleep 3
           
           # Start new application
+          cd /var/www/chatbotgeneral
+          source venv/bin/activate
           nohup uvicorn app.main:app --host 0.0.0.0 --port 8090 --workers 1 > app.log 2>&1 &
           
-          # Wait and verify deployment
+          # Verify deployment
           sleep 5
           if pgrep -f "uvicorn app.main:app"; then
             echo "✅ Deployment successful!"
             echo "Application is running on port 8090"
             # Test the app
-            curl -s http://localhost:8090 || echo "App started but not responding yet"
+            curl -s http://localhost:8090 || echo "App is starting..."
           else
             echo "❌ Deployment failed!"
             echo "Recent logs:"
