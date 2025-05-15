@@ -19,17 +19,32 @@ jobs:
         set -e
         
         echo "Starting deployment..."
-        
-        # Navigate to app directory
         cd /var/www/chatbotgeneral
         
-        # Clean up unnecessary files
+        # Backup the existing .env file
+        if [ -f ".env" ]; then
+          cp .env .env.backup
+        fi
+        
+        # Clean up unnecessary files (but keep .env)
         rm -rf .git .github __pycache__ *.pyc *.pyo
+        
+        # Restore .env if it was accidentally removed
+        if [ -f ".env.backup" ]; then
+          mv .env.backup .env
+        fi
         
         # Stop current application
         echo "Stopping current application..."
         pkill -f "uvicorn app.main:app" || true
         sleep 3
+        
+        # Check if .env file exists
+        if [ ! -f ".env" ]; then
+          echo "❌ Error: .env file not found!"
+          echo "Please create /var/www/chatbotgeneral/.env with required environment variables"
+          exit 1
+        fi
         
         # Start new application
         echo "Starting new application..."
@@ -43,13 +58,14 @@ jobs:
           echo "Application is running on port 8090"
         else
           echo "❌ Deployment failed!"
+          echo "Application logs:"
           tail -20 app.log
           exit 1
         fi
         EOF
         chmod +x deploy.sh
     
-    - name: Copy files and deploy
+    - name: Copy files (excluding .env)
       uses: appleboy/scp-action@master
       with:
         host: ${{ secrets.HOST }}
